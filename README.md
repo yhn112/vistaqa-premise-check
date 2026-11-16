@@ -2,7 +2,6 @@
 
 System of team YHN112 for the [VistaQA Zero-Shot Challenge](https://vlm4rwd.github.io/challenges.html#vistaqa)
 (VLM4RWD workshop, NeurIPS 2026).
-The system report is [`report/vistaqa-premise-check.pdf`](report/vistaqa-premise-check.pdf); its LaTeX source is in `report/`.
 
 The system is training-free:
 
@@ -33,6 +32,11 @@ Each run directory contains:
 - `eval_qwen72b/`: `evaluation_eps0.1.json` and `evaluation_eps0.01.json` (overall scores and the official breakdowns),
   `per_sample.jsonl` (per-sample answer and mask scores), `judge.jsonl` (cached judge verdicts) and `eval.log`.
 
+## Development data
+
+[`dev/`](dev/README.md) holds the builders, our annotations and the manifest of the final development mix
+(923 questions in six domains) used to select the system; source images are downloaded separately.
+
 ## Code
 
 The code is a snapshot of `vistaqa/` and `eval/` at commit `d10bd97f` of our development repository;
@@ -40,7 +44,7 @@ the development history is not published.
 E and the completing invocation of A recorded this commit in `run.jsonl`;
 A's first invocation recorded `d533d81d`, whose `vistaqa/` and `eval/` are identical,
 and no invocation had uncommitted changes in these directories.
-At this commit `--variant` defaults to `a`, and variants `b`–`d` are an abandoned study that the report summarizes.
+At this commit `--variant` defaults to `a`, and variants `b`–`d` belong to an abandoned study.
 
 Setup (Python ≥ 3.12, [uv](https://docs.astral.sh/uv/)):
 

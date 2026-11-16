@@ -1,0 +1,8392 @@
+{
+ "sa_10002881.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4279,
+   "outdoor": 0.2428,
+   "other": 0.3292
+  }
+ },
+ "sa_10003369.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8173,
+   "outdoor": 0.0621,
+   "other": 0.1206
+  }
+ },
+ "sa_10010240.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2795,
+   "outdoor": 0.4112,
+   "other": 0.3093
+  }
+ },
+ "sa_10011180.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9821,
+   "outdoor": 0.0159,
+   "other": 0.002
+  }
+ },
+ "sa_10016075.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_10020976.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7568,
+   "outdoor": 0.186,
+   "other": 0.0572
+  }
+ },
+ "sa_10022958.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1447,
+   "outdoor": 0.7853,
+   "other": 0.07
+  }
+ },
+ "sa_10026448.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4828,
+   "outdoor": 0.501,
+   "other": 0.0161
+  }
+ },
+ "sa_10031168.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0038,
+   "outdoor": 0.9736,
+   "other": 0.0227
+  }
+ },
+ "sa_10033906.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2183,
+   "outdoor": 0.7111,
+   "other": 0.0706
+  }
+ },
+ "sa_10047710.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6966,
+   "outdoor": 0.1006,
+   "other": 0.2028
+  }
+ },
+ "sa_10081638.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9759,
+   "outdoor": 0.0178,
+   "other": 0.0062
+  }
+ },
+ "sa_10081826.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9789,
+   "outdoor": 0.0184,
+   "other": 0.0027
+  }
+ },
+ "sa_10103005.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3431,
+   "outdoor": 0.551,
+   "other": 0.106
+  }
+ },
+ "sa_10116833.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9672,
+   "outdoor": 0.0282,
+   "other": 0.0046
+  }
+ },
+ "sa_10119972.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0757,
+   "outdoor": 0.3866,
+   "other": 0.5377
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_1012332.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0379,
+   "outdoor": 0.8058,
+   "other": 0.1562
+  }
+ },
+ "sa_10137597.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1373,
+   "outdoor": 0.3626,
+   "other": 0.5001
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10138177.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0096,
+   "outdoor": 0.9436,
+   "other": 0.0468
+  }
+ },
+ "sa_10140907.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.03,
+   "outdoor": 0.9668,
+   "other": 0.0032
+  }
+ },
+ "sa_10151268.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9724,
+   "outdoor": 0.0198,
+   "other": 0.0078
+  }
+ },
+ "sa_10156083.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6433,
+   "outdoor": 0.2787,
+   "other": 0.078
+  }
+ },
+ "sa_10160449.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1972,
+   "outdoor": 0.7241,
+   "other": 0.0787
+  }
+ },
+ "sa_10164088.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2881,
+   "outdoor": 0.651,
+   "other": 0.0609
+  }
+ },
+ "sa_10166311.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.639,
+   "outdoor": 0.261,
+   "other": 0.1
+  }
+ },
+ "sa_1016637.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0214,
+   "outdoor": 0.9465,
+   "other": 0.0322
+  }
+ },
+ "sa_10167871.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0117,
+   "outdoor": 0.9507,
+   "other": 0.0375
+  }
+ },
+ "sa_10176613.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.501,
+   "outdoor": 0.4974,
+   "other": 0.0016
+  }
+ },
+ "sa_10203451.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0081,
+   "outdoor": 0.1637,
+   "other": 0.8282
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10218496.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0317,
+   "outdoor": 0.9596,
+   "other": 0.0087
+  }
+ },
+ "sa_10226977.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0064,
+   "outdoor": 0.8147,
+   "other": 0.1789
+  }
+ },
+ "sa_1022797.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_10234148.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0234,
+   "outdoor": 0.9413,
+   "other": 0.0353
+  }
+ },
+ "sa_1023554.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0018,
+   "outdoor": 0.976,
+   "other": 0.0222
+  }
+ },
+ "sa_10264345.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.005,
+   "outdoor": 0.92,
+   "other": 0.075
+  }
+ },
+ "sa_10265253.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8694,
+   "outdoor": 0.1059,
+   "other": 0.0247
+  }
+ },
+ "sa_10265680.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2541,
+   "outdoor": 0.5873,
+   "other": 0.1586
+  }
+ },
+ "sa_10284969.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2644,
+   "outdoor": 0.5147,
+   "other": 0.221
+  }
+ },
+ "sa_10317903.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3375,
+   "outdoor": 0.2672,
+   "other": 0.3953
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10320556.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2571,
+   "outdoor": 0.7279,
+   "other": 0.015
+  }
+ },
+ "sa_10325278.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0262,
+   "outdoor": 0.7624,
+   "other": 0.2113
+  }
+ },
+ "sa_10345428.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0049,
+   "outdoor": 0.9347,
+   "other": 0.0604
+  }
+ },
+ "sa_10349613.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9997
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_10355594.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1617,
+   "outdoor": 0.5911,
+   "other": 0.2472
+  }
+ },
+ "sa_10362690.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9624,
+   "outdoor": 0.0266,
+   "other": 0.011
+  }
+ },
+ "sa_10368265.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6673,
+   "outdoor": 0.2128,
+   "other": 0.1199
+  }
+ },
+ "sa_10375707.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6186,
+   "outdoor": 0.1077,
+   "other": 0.2737
+  }
+ },
+ "sa_10411185.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0303,
+   "outdoor": 0.9349,
+   "other": 0.0348
+  }
+ },
+ "sa_1043168.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.009,
+   "outdoor": 0.6362,
+   "other": 0.3548
+  }
+ },
+ "sa_10446983.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0157,
+   "outdoor": 0.4917,
+   "other": 0.4926
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10447077.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0393,
+   "outdoor": 0.9553,
+   "other": 0.0054
+  }
+ },
+ "sa_10451902.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0432,
+   "outdoor": 0.2338,
+   "other": 0.7229
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10459273.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.055,
+   "outdoor": 0.3716,
+   "other": 0.5734
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10474934.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3657,
+   "outdoor": 0.5378,
+   "other": 0.0965
+  }
+ },
+ "sa_1047502.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0841,
+   "outdoor": 0.9055,
+   "other": 0.0104
+  }
+ },
+ "sa_10479491.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.017,
+   "outdoor": 0.8245,
+   "other": 0.1586
+  }
+ },
+ "sa_10492093.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1937,
+   "outdoor": 0.6448,
+   "other": 0.1615
+  }
+ },
+ "sa_10538254.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_10538988.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0345,
+   "outdoor": 0.9118,
+   "other": 0.0537
+  }
+ },
+ "sa_10549305.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8475,
+   "outdoor": 0.1478,
+   "other": 0.0047
+  }
+ },
+ "sa_10558143.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0301,
+   "outdoor": 0.3674,
+   "other": 0.6025
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10568885.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.153,
+   "outdoor": 0.0917,
+   "other": 0.7553
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10607015.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0006,
+   "outdoor": 0.9746,
+   "other": 0.0248
+  }
+ },
+ "sa_10614190.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0031,
+   "outdoor": 0.9253,
+   "other": 0.0715
+  }
+ },
+ "sa_10614472.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0085,
+   "outdoor": 0.9575,
+   "other": 0.0339
+  }
+ },
+ "sa_10621965.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4835,
+   "outdoor": 0.3703,
+   "other": 0.1462
+  }
+ },
+ "sa_10627470.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4209,
+   "outdoor": 0.3113,
+   "other": 0.2678
+  }
+ },
+ "sa_10631426.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0713,
+   "outdoor": 0.7074,
+   "other": 0.2213
+  }
+ },
+ "sa_10641393.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0375,
+   "outdoor": 0.9462,
+   "other": 0.0164
+  }
+ },
+ "sa_10651808.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0121,
+   "outdoor": 0.8183,
+   "other": 0.1697
+  }
+ },
+ "sa_10653749.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0261,
+   "outdoor": 0.482,
+   "other": 0.4919
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_10657017.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3804,
+   "outdoor": 0.3024,
+   "other": 0.3172
+  }
+ },
+ "sa_10662815.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0094,
+   "outdoor": 0.8986,
+   "other": 0.092
+  }
+ },
+ "sa_10672004.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0267,
+   "outdoor": 0.9617,
+   "other": 0.0116
+  }
+ },
+ "sa_10703900.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0121,
+   "outdoor": 0.6134,
+   "other": 0.3745
+  }
+ },
+ "sa_10751217.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6175,
+   "outdoor": 0.3268,
+   "other": 0.0556
+  }
+ },
+ "sa_10754975.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.04,
+   "outdoor": 0.9482,
+   "other": 0.0118
+  }
+ },
+ "sa_10776070.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0133,
+   "outdoor": 0.6682,
+   "other": 0.3185
+  }
+ },
+ "sa_10797076.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_10835200.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9546,
+   "outdoor": 0.0042,
+   "other": 0.0411
+  }
+ },
+ "sa_10850265.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0104,
+   "outdoor": 0.9714,
+   "other": 0.0182
+  }
+ },
+ "sa_10852956.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0035,
+   "outdoor": 0.8886,
+   "other": 0.1079
+  }
+ },
+ "sa_10874881.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1726,
+   "outdoor": 0.5933,
+   "other": 0.2341
+  }
+ },
+ "sa_10877231.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0859,
+   "outdoor": 0.8998,
+   "other": 0.0143
+  }
+ },
+ "sa_10881526.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0093,
+   "outdoor": 0.9097,
+   "other": 0.081
+  }
+ },
+ "sa_10894242.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9671,
+   "outdoor": 0.03,
+   "other": 0.0028
+  }
+ },
+ "sa_10940159.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3712,
+   "outdoor": 0.5488,
+   "other": 0.08
+  }
+ },
+ "sa_10943794.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.234,
+   "outdoor": 0.5765,
+   "other": 0.1894
+  }
+ },
+ "sa_10947177.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2846,
+   "outdoor": 0.5602,
+   "other": 0.1552
+  }
+ },
+ "sa_10956068.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.01,
+   "outdoor": 0.9329,
+   "other": 0.0571
+  }
+ },
+ "sa_10959306.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1096817.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0006,
+   "other": 0.9994
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1097.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0192,
+   "outdoor": 0.9669,
+   "other": 0.0139
+  }
+ },
+ "sa_10986295.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9258,
+   "outdoor": 0.0645,
+   "other": 0.0097
+  }
+ },
+ "sa_10988215.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0008,
+   "outdoor": 0.869,
+   "other": 0.1302
+  }
+ },
+ "sa_10993230.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0269,
+   "outdoor": 0.8989,
+   "other": 0.0742
+  }
+ },
+ "sa_10997673.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0095,
+   "outdoor": 0.9628,
+   "other": 0.0277
+  }
+ },
+ "sa_11043068.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0744,
+   "outdoor": 0.8009,
+   "other": 0.1247
+  }
+ },
+ "sa_11058753.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9833,
+   "outdoor": 0.0104,
+   "other": 0.0063
+  }
+ },
+ "sa_11075264.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1378,
+   "outdoor": 0.8402,
+   "other": 0.022
+  }
+ },
+ "sa_11082837.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0696,
+   "outdoor": 0.8022,
+   "other": 0.1281
+  }
+ },
+ "sa_11094369.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.008,
+   "outdoor": 0.3956,
+   "other": 0.5964
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_11095290.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0059,
+   "outdoor": 0.5685,
+   "other": 0.4256
+  }
+ },
+ "sa_11101401.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0979,
+   "outdoor": 0.0081,
+   "other": 0.894
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_11104479.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4488,
+   "outdoor": 0.298,
+   "other": 0.2531
+  }
+ },
+ "sa_1110994.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0013,
+   "outdoor": 0.8604,
+   "other": 0.1382
+  }
+ },
+ "sa_11123288.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1721,
+   "outdoor": 0.2027,
+   "other": 0.6253
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_11158775.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1525,
+   "outdoor": 0.3915,
+   "other": 0.456
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_1130312.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0107,
+   "outdoor": 0.5613,
+   "other": 0.428
+  }
+ },
+ "sa_1145957.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2841,
+   "outdoor": 0.2928,
+   "other": 0.4232
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_1148795.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1358,
+   "outdoor": 0.8282,
+   "other": 0.036
+  }
+ },
+ "sa_1153167.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0433,
+   "outdoor": 0.912,
+   "other": 0.0447
+  }
+ },
+ "sa_1173218.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0058,
+   "outdoor": 0.9869,
+   "other": 0.0073
+  }
+ },
+ "sa_1176125.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0277,
+   "outdoor": 0.6442,
+   "other": 0.3281
+  }
+ },
+ "sa_1187145.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1206714.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3992,
+   "outdoor": 0.2398,
+   "other": 0.361
+  }
+ },
+ "sa_1213492.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9315,
+   "outdoor": 0.0621,
+   "other": 0.0064
+  }
+ },
+ "sa_1224954.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3466,
+   "outdoor": 0.5759,
+   "other": 0.0775
+  }
+ },
+ "sa_1248438.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0003,
+   "outdoor": 0.0062,
+   "other": 0.9935
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_124889.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1236,
+   "outdoor": 0.8558,
+   "other": 0.0206
+  }
+ },
+ "sa_125245.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0037,
+   "outdoor": 0.0631,
+   "other": 0.9333
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_1287679.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0326,
+   "outdoor": 0.9627,
+   "other": 0.0047
+  }
+ },
+ "sa_1319305.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0009,
+   "outdoor": 0.9988,
+   "other": 0.0003
+  }
+ },
+ "sa_1332173.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0009,
+   "outdoor": 0.9831,
+   "other": 0.016
+  }
+ },
+ "sa_1359244.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2245,
+   "outdoor": 0.7698,
+   "other": 0.0057
+  }
+ },
+ "sa_1367385.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0014,
+   "outdoor": 0.0049,
+   "other": 0.9937
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1372677.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0347,
+   "outdoor": 0.9426,
+   "other": 0.0227
+  }
+ },
+ "sa_1377275.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0889,
+   "outdoor": 0.8048,
+   "other": 0.1063
+  }
+ },
+ "sa_1383833.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6133,
+   "outdoor": 0.0637,
+   "other": 0.3231
+  }
+ },
+ "sa_1394469.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0205,
+   "outdoor": 0.9489,
+   "other": 0.0305
+  }
+ },
+ "sa_1394681.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.394,
+   "outdoor": 0.5511,
+   "other": 0.0549
+  }
+ },
+ "sa_1394953.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3904,
+   "outdoor": 0.3458,
+   "other": 0.2638
+  }
+ },
+ "sa_1412773.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3902,
+   "outdoor": 0.575,
+   "other": 0.0348
+  }
+ },
+ "sa_1424676.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2129,
+   "outdoor": 0.7216,
+   "other": 0.0655
+  }
+ },
+ "sa_1444870.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5502,
+   "outdoor": 0.3232,
+   "other": 0.1266
+  }
+ },
+ "sa_1449810.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0504,
+   "outdoor": 0.5535,
+   "other": 0.3961
+  }
+ },
+ "sa_1462212.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0433,
+   "outdoor": 0.9451,
+   "other": 0.0115
+  }
+ },
+ "sa_1473052.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9538,
+   "outdoor": 0.0438,
+   "other": 0.0024
+  }
+ },
+ "sa_1473188.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0163,
+   "outdoor": 0.8141,
+   "other": 0.1696
+  }
+ },
+ "sa_1473759.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5871,
+   "outdoor": 0.2854,
+   "other": 0.1275
+  }
+ },
+ "sa_1478516.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0282,
+   "outdoor": 0.7702,
+   "other": 0.2016
+  }
+ },
+ "sa_1483626.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0206,
+   "outdoor": 0.7813,
+   "other": 0.1981
+  }
+ },
+ "sa_1492226.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8754,
+   "outdoor": 0.086,
+   "other": 0.0386
+  }
+ },
+ "sa_1503493.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0011,
+   "other": 0.9988
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1505008.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1613,
+   "outdoor": 0.6281,
+   "other": 0.2106
+  }
+ },
+ "sa_1506795.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.036,
+   "outdoor": 0.8758,
+   "other": 0.0882
+  }
+ },
+ "sa_1511532.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6608,
+   "outdoor": 0.0709,
+   "other": 0.2683
+  }
+ },
+ "sa_1526159.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1049,
+   "outdoor": 0.89,
+   "other": 0.005
+  }
+ },
+ "sa_155967.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6522,
+   "outdoor": 0.1582,
+   "other": 0.1896
+  }
+ },
+ "sa_1561132.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0942,
+   "outdoor": 0.8888,
+   "other": 0.017
+  }
+ },
+ "sa_1571951.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5366,
+   "outdoor": 0.0911,
+   "other": 0.3723
+  }
+ },
+ "sa_1578545.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5063,
+   "outdoor": 0.4414,
+   "other": 0.0523
+  }
+ },
+ "sa_1586445.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9284,
+   "outdoor": 0.0442,
+   "other": 0.0274
+  }
+ },
+ "sa_159662.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4371,
+   "outdoor": 0.4434,
+   "other": 0.1194
+  }
+ },
+ "sa_1602262.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4536,
+   "outdoor": 0.4618,
+   "other": 0.0846
+  }
+ },
+ "sa_1610322.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0003,
+   "other": 0.9996
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1614120.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9469,
+   "outdoor": 0.0165,
+   "other": 0.0367
+  }
+ },
+ "sa_1626978.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3413,
+   "outdoor": 0.5096,
+   "other": 0.1491
+  }
+ },
+ "sa_1636250.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8988,
+   "outdoor": 0.0673,
+   "other": 0.0339
+  }
+ },
+ "sa_1661410.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2402,
+   "outdoor": 0.7513,
+   "other": 0.0086
+  }
+ },
+ "sa_167872.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4608,
+   "outdoor": 0.4786,
+   "other": 0.0606
+  }
+ },
+ "sa_1685722.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8379,
+   "outdoor": 0.0782,
+   "other": 0.0838
+  }
+ },
+ "sa_1735724.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0026,
+   "outdoor": 0.7497,
+   "other": 0.2477
+  }
+ },
+ "sa_1738146.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_1762655.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0297,
+   "outdoor": 0.7902,
+   "other": 0.1801
+  }
+ },
+ "sa_1779668.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0092,
+   "outdoor": 0.9565,
+   "other": 0.0343
+  }
+ },
+ "sa_1796709.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1063,
+   "outdoor": 0.6784,
+   "other": 0.2153
+  }
+ },
+ "sa_1801314.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.838,
+   "outdoor": 0.0928,
+   "other": 0.0691
+  }
+ },
+ "sa_1810198.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0228,
+   "outdoor": 0.9693,
+   "other": 0.0079
+  }
+ },
+ "sa_1837710.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2615,
+   "outdoor": 0.5317,
+   "other": 0.2068
+  }
+ },
+ "sa_1843018.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0502,
+   "outdoor": 0.9165,
+   "other": 0.0333
+  }
+ },
+ "sa_1862539.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3682,
+   "outdoor": 0.1413,
+   "other": 0.4905
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_1872397.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0257,
+   "outdoor": 0.8413,
+   "other": 0.133
+  }
+ },
+ "sa_1882495.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2687,
+   "outdoor": 0.45,
+   "other": 0.2813
+  }
+ },
+ "sa_1884503.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0211,
+   "outdoor": 0.8851,
+   "other": 0.0938
+  }
+ },
+ "sa_1891689.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0183,
+   "outdoor": 0.6136,
+   "other": 0.3681
+  }
+ },
+ "sa_1894043.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3466,
+   "outdoor": 0.5019,
+   "other": 0.1515
+  }
+ },
+ "sa_1899403.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2024,
+   "outdoor": 0.7507,
+   "other": 0.0469
+  }
+ },
+ "sa_1917290.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.052,
+   "outdoor": 0.944,
+   "other": 0.004
+  }
+ },
+ "sa_1931387.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9207,
+   "outdoor": 0.0582,
+   "other": 0.0212
+  }
+ },
+ "sa_1944087.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2472,
+   "outdoor": 0.6837,
+   "other": 0.0692
+  }
+ },
+ "sa_1949964.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0025,
+   "outdoor": 0.9762,
+   "other": 0.0214
+  }
+ },
+ "sa_1955345.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0126,
+   "outdoor": 0.5924,
+   "other": 0.395
+  }
+ },
+ "sa_1956907.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9339,
+   "outdoor": 0.0556,
+   "other": 0.0105
+  }
+ },
+ "sa_1984745.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0603,
+   "outdoor": 0.9289,
+   "other": 0.0108
+  }
+ },
+ "sa_1992245.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7982,
+   "outdoor": 0.0472,
+   "other": 0.1546
+  }
+ },
+ "sa_2021567.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2794,
+   "outdoor": 0.6323,
+   "other": 0.0883
+  }
+ },
+ "sa_2023061.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0411,
+   "outdoor": 0.6132,
+   "other": 0.3457
+  }
+ },
+ "sa_2032970.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0584,
+   "outdoor": 0.9157,
+   "other": 0.0259
+  }
+ },
+ "sa_203460.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9613,
+   "outdoor": 0.0347,
+   "other": 0.004
+  }
+ },
+ "sa_2048725.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.007,
+   "outdoor": 0.9899,
+   "other": 0.0031
+  }
+ },
+ "sa_2089981.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0289,
+   "outdoor": 0.9545,
+   "other": 0.0165
+  }
+ },
+ "sa_209298.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0183,
+   "outdoor": 0.8939,
+   "other": 0.0879
+  }
+ },
+ "sa_2099278.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0094,
+   "outdoor": 0.9752,
+   "other": 0.0154
+  }
+ },
+ "sa_2104859.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3329,
+   "outdoor": 0.5681,
+   "other": 0.099
+  }
+ },
+ "sa_2107801.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4633,
+   "outdoor": 0.159,
+   "other": 0.3777
+  }
+ },
+ "sa_2111937.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0026,
+   "outdoor": 0.977,
+   "other": 0.0204
+  }
+ },
+ "sa_211406.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9816,
+   "outdoor": 0.0109,
+   "other": 0.0074
+  }
+ },
+ "sa_2120265.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2121362.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9544,
+   "outdoor": 0.0412,
+   "other": 0.0044
+  }
+ },
+ "sa_2138463.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2627,
+   "outdoor": 0.4514,
+   "other": 0.2858
+  }
+ },
+ "sa_2161476.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0492,
+   "outdoor": 0.9501,
+   "other": 0.0007
+  }
+ },
+ "sa_2167250.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2193380.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.165,
+   "outdoor": 0.2509,
+   "other": 0.5841
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2198200.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2213672.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0139,
+   "outdoor": 0.5213,
+   "other": 0.4648
+  }
+ },
+ "sa_2220283.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0037,
+   "outdoor": 0.6011,
+   "other": 0.3952
+  }
+ },
+ "sa_2233815.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0008,
+   "outdoor": 0.0257,
+   "other": 0.9735
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2245690.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2081,
+   "outdoor": 0.7162,
+   "other": 0.0757
+  }
+ },
+ "sa_2246713.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0183,
+   "outdoor": 0.4342,
+   "other": 0.5475
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2251377.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2843,
+   "outdoor": 0.3701,
+   "other": 0.3457
+  }
+ },
+ "sa_2253981.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4759,
+   "outdoor": 0.417,
+   "other": 0.1071
+  }
+ },
+ "sa_2259401.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2288012.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0491,
+   "outdoor": 0.9342,
+   "other": 0.0167
+  }
+ },
+ "sa_2289543.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0487,
+   "outdoor": 0.9307,
+   "other": 0.0207
+  }
+ },
+ "sa_2293855.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1564,
+   "outdoor": 0.8349,
+   "other": 0.0087
+  }
+ },
+ "sa_2306313.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8681,
+   "outdoor": 0.118,
+   "other": 0.0139
+  }
+ },
+ "sa_2309592.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5597,
+   "outdoor": 0.4263,
+   "other": 0.014
+  }
+ },
+ "sa_2314677.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0455,
+   "outdoor": 0.8676,
+   "other": 0.0869
+  }
+ },
+ "sa_2323224.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7068,
+   "outdoor": 0.2796,
+   "other": 0.0136
+  }
+ },
+ "sa_2328588.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2298,
+   "outdoor": 0.3385,
+   "other": 0.4317
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2364822.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2469,
+   "outdoor": 0.7208,
+   "other": 0.0323
+  }
+ },
+ "sa_2369411.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0174,
+   "outdoor": 0.9506,
+   "other": 0.032
+  }
+ },
+ "sa_238467.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9845,
+   "outdoor": 0.0083,
+   "other": 0.0072
+  }
+ },
+ "sa_2408382.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.003,
+   "outdoor": 0.9913,
+   "other": 0.0057
+  }
+ },
+ "sa_2417763.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0096,
+   "outdoor": 0.6771,
+   "other": 0.3133
+  }
+ },
+ "sa_2418694.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0204,
+   "outdoor": 0.967,
+   "other": 0.0126
+  }
+ },
+ "sa_243364.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0049,
+   "outdoor": 0.2445,
+   "other": 0.7505
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2434715.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0037,
+   "outdoor": 0.6746,
+   "other": 0.3216
+  }
+ },
+ "sa_2441295.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0003,
+   "outdoor": 0.003,
+   "other": 0.9966
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2451636.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0234,
+   "outdoor": 0.9419,
+   "other": 0.0346
+  }
+ },
+ "sa_2459822.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0008,
+   "other": 0.9992
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2463130.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0463,
+   "outdoor": 0.6425,
+   "other": 0.3112
+  }
+ },
+ "sa_2464530.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0178,
+   "outdoor": 0.9765,
+   "other": 0.0057
+  }
+ },
+ "sa_2468200.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0804,
+   "outdoor": 0.8941,
+   "other": 0.0255
+  }
+ },
+ "sa_2469121.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0069,
+   "outdoor": 0.5097,
+   "other": 0.4834
+  }
+ },
+ "sa_2475643.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0078,
+   "outdoor": 0.886,
+   "other": 0.1062
+  }
+ },
+ "sa_2496592.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1287,
+   "outdoor": 0.6398,
+   "other": 0.2315
+  }
+ },
+ "sa_2510036.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0121,
+   "outdoor": 0.9749,
+   "other": 0.013
+  }
+ },
+ "sa_2520544.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9306,
+   "outdoor": 0.0555,
+   "other": 0.0139
+  }
+ },
+ "sa_2534723.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0328,
+   "outdoor": 0.9396,
+   "other": 0.0277
+  }
+ },
+ "sa_2538880.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.223,
+   "outdoor": 0.1147,
+   "other": 0.6623
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2540652.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0324,
+   "outdoor": 0.64,
+   "other": 0.3276
+  }
+ },
+ "sa_2544969.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.216,
+   "outdoor": 0.4629,
+   "other": 0.321
+  }
+ },
+ "sa_2553691.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0598,
+   "outdoor": 0.9143,
+   "other": 0.0259
+  }
+ },
+ "sa_2554602.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.519,
+   "outdoor": 0.325,
+   "other": 0.156
+  }
+ },
+ "sa_2571401.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.006,
+   "outdoor": 0.5585,
+   "other": 0.4355
+  }
+ },
+ "sa_2577720.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4185,
+   "outdoor": 0.5324,
+   "other": 0.0491
+  }
+ },
+ "sa_2577972.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2601508.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0177,
+   "outdoor": 0.9699,
+   "other": 0.0124
+  }
+ },
+ "sa_2606207.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1561,
+   "outdoor": 0.6907,
+   "other": 0.1533
+  }
+ },
+ "sa_2628778.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.001,
+   "outdoor": 0.0486,
+   "other": 0.9504
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2629125.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1085,
+   "outdoor": 0.8391,
+   "other": 0.0525
+  }
+ },
+ "sa_2661839.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9112,
+   "outdoor": 0.0449,
+   "other": 0.0438
+  }
+ },
+ "sa_2663044.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0033,
+   "outdoor": 0.981,
+   "other": 0.0157
+  }
+ },
+ "sa_2683627.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0048,
+   "outdoor": 0.9606,
+   "other": 0.0346
+  }
+ },
+ "sa_2708913.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.162,
+   "outdoor": 0.8287,
+   "other": 0.0094
+  }
+ },
+ "sa_2717234.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0092,
+   "outdoor": 0.9776,
+   "other": 0.0132
+  }
+ },
+ "sa_2754937.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.695,
+   "outdoor": 0.2148,
+   "other": 0.0902
+  }
+ },
+ "sa_27550.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0431,
+   "outdoor": 0.9367,
+   "other": 0.0202
+  }
+ },
+ "sa_2787071.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0449,
+   "outdoor": 0.9412,
+   "other": 0.0139
+  }
+ },
+ "sa_2807651.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0069,
+   "outdoor": 0.3921,
+   "other": 0.6009
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2825282.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0212,
+   "outdoor": 0.1433,
+   "other": 0.8355
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_284080.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0022,
+   "outdoor": 0.9953,
+   "other": 0.0025
+  }
+ },
+ "sa_2846301.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0025,
+   "outdoor": 0.9846,
+   "other": 0.0129
+  }
+ },
+ "sa_2874986.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0982,
+   "outdoor": 0.6572,
+   "other": 0.2446
+  }
+ },
+ "sa_2875120.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2772,
+   "outdoor": 0.3227,
+   "other": 0.4
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2878505.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9368,
+   "outdoor": 0.0287,
+   "other": 0.0345
+  }
+ },
+ "sa_2885256.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0009,
+   "outdoor": 0.991,
+   "other": 0.0081
+  }
+ },
+ "sa_2894487.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.0089,
+   "outdoor": 0.0084,
+   "other": 0.9826
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_2911737.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4597,
+   "outdoor": 0.4398,
+   "other": 0.1005
+  }
+ },
+ "sa_2912184.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8376,
+   "outdoor": 0.07,
+   "other": 0.0924
+  }
+ },
+ "sa_2915566.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0039,
+   "outdoor": 0.7794,
+   "other": 0.2167
+  }
+ },
+ "sa_2916629.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0204,
+   "outdoor": 0.6565,
+   "other": 0.3231
+  }
+ },
+ "sa_2918952.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.884,
+   "outdoor": 0.0474,
+   "other": 0.0686
+  }
+ },
+ "sa_2928092.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2928269.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0714,
+   "outdoor": 0.8956,
+   "other": 0.033
+  }
+ },
+ "sa_2950774.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_2975050.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9778,
+   "outdoor": 0.0173,
+   "other": 0.005
+  }
+ },
+ "sa_2980561.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5793,
+   "outdoor": 0.1272,
+   "other": 0.2935
+  }
+ },
+ "sa_2981966.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8943,
+   "outdoor": 0.0963,
+   "other": 0.0094
+  }
+ },
+ "sa_299436.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.028,
+   "outdoor": 0.886,
+   "other": 0.0859
+  }
+ },
+ "sa_2997624.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0864,
+   "outdoor": 0.8054,
+   "other": 0.1082
+  }
+ },
+ "sa_2999397.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0538,
+   "outdoor": 0.9261,
+   "other": 0.0202
+  }
+ },
+ "sa_3001335.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0382,
+   "outdoor": 0.9084,
+   "other": 0.0534
+  }
+ },
+ "sa_3003690.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0093,
+   "outdoor": 0.7099,
+   "other": 0.2807
+  }
+ },
+ "sa_3024583.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0003,
+   "other": 0.9997
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_302825.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1051,
+   "outdoor": 0.8531,
+   "other": 0.0418
+  }
+ },
+ "sa_3032353.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0146,
+   "outdoor": 0.8646,
+   "other": 0.1208
+  }
+ },
+ "sa_30471.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5306,
+   "outdoor": 0.3901,
+   "other": 0.0793
+  }
+ },
+ "sa_305399.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0146,
+   "outdoor": 0.9673,
+   "other": 0.0181
+  }
+ },
+ "sa_3063899.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0957,
+   "outdoor": 0.8087,
+   "other": 0.0956
+  }
+ },
+ "sa_306663.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0029,
+   "outdoor": 0.6437,
+   "other": 0.3534
+  }
+ },
+ "sa_3073024.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.026,
+   "outdoor": 0.6154,
+   "other": 0.3585
+  }
+ },
+ "sa_3097663.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.022,
+   "outdoor": 0.9428,
+   "other": 0.0352
+  }
+ },
+ "sa_309800.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6331,
+   "outdoor": 0.0722,
+   "other": 0.2947
+  }
+ },
+ "sa_3101535.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0327,
+   "outdoor": 0.8565,
+   "other": 0.1108
+  }
+ },
+ "sa_3103012.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3467,
+   "outdoor": 0.5931,
+   "other": 0.0602
+  }
+ },
+ "sa_3108907.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0506,
+   "outdoor": 0.8451,
+   "other": 0.1043
+  }
+ },
+ "sa_3109106.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3109911.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0062,
+   "outdoor": 0.9778,
+   "other": 0.016
+  }
+ },
+ "sa_311075.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.336,
+   "outdoor": 0.0271,
+   "other": 0.6368
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3138327.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0097,
+   "outdoor": 0.9133,
+   "other": 0.0771
+  }
+ },
+ "sa_3138560.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0341,
+   "outdoor": 0.91,
+   "other": 0.0558
+  }
+ },
+ "sa_3143593.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.0008,
+   "other": 0.9989
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3144014.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0071,
+   "outdoor": 0.9793,
+   "other": 0.0135
+  }
+ },
+ "sa_3145945.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3476,
+   "outdoor": 0.2003,
+   "other": 0.4521
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3155665.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0006,
+   "outdoor": 0.0532,
+   "other": 0.9462
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_316499.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3142,
+   "outdoor": 0.6602,
+   "other": 0.0256
+  }
+ },
+ "sa_3173058.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0004,
+   "other": 0.9996
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3202484.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0192,
+   "outdoor": 0.9425,
+   "other": 0.0383
+  }
+ },
+ "sa_3207396.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0341,
+   "outdoor": 0.9478,
+   "other": 0.0181
+  }
+ },
+ "sa_320847.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0065,
+   "outdoor": 0.9736,
+   "other": 0.0198
+  }
+ },
+ "sa_3208921.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1492,
+   "outdoor": 0.4433,
+   "other": 0.4075
+  }
+ },
+ "sa_323336.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.548,
+   "outdoor": 0.088,
+   "other": 0.364
+  }
+ },
+ "sa_3256682.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3259612.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0026,
+   "outdoor": 0.4877,
+   "other": 0.5097
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_327038.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.68,
+   "outdoor": 0.2042,
+   "other": 0.1158
+  }
+ },
+ "sa_329176.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0011,
+   "other": 0.9988
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3298053.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0542,
+   "outdoor": 0.528,
+   "other": 0.4178
+  }
+ },
+ "sa_3306813.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0038,
+   "outdoor": 0.9926,
+   "other": 0.0036
+  }
+ },
+ "sa_3335876.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1177,
+   "outdoor": 0.3246,
+   "other": 0.5578
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3354817.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0516,
+   "outdoor": 0.936,
+   "other": 0.0124
+  }
+ },
+ "sa_3370004.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3239,
+   "outdoor": 0.4338,
+   "other": 0.2423
+  }
+ },
+ "sa_3397112.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0297,
+   "outdoor": 0.9121,
+   "other": 0.0582
+  }
+ },
+ "sa_3403357.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3449578.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3449685.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3451475.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0659,
+   "outdoor": 0.8907,
+   "other": 0.0433
+  }
+ },
+ "sa_3484110.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3498985.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4906,
+   "outdoor": 0.4922,
+   "other": 0.0172
+  }
+ },
+ "sa_3507092.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2105,
+   "outdoor": 0.6715,
+   "other": 0.1181
+  }
+ },
+ "sa_3512379.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1842,
+   "outdoor": 0.7875,
+   "other": 0.0283
+  }
+ },
+ "sa_3518037.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0121,
+   "outdoor": 0.721,
+   "other": 0.2669
+  }
+ },
+ "sa_3528757.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0165,
+   "outdoor": 0.9642,
+   "other": 0.0193
+  }
+ },
+ "sa_3536356.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0246,
+   "outdoor": 0.9687,
+   "other": 0.0067
+  }
+ },
+ "sa_3555308.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0323,
+   "outdoor": 0.7915,
+   "other": 0.1762
+  }
+ },
+ "sa_3569244.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3575,
+   "outdoor": 0.2761,
+   "other": 0.3664
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3587638.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1388,
+   "outdoor": 0.7105,
+   "other": 0.1507
+  }
+ },
+ "sa_358838.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0253,
+   "outdoor": 0.6924,
+   "other": 0.2823
+  }
+ },
+ "sa_3602202.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0009,
+   "outdoor": 0.9262,
+   "other": 0.0729
+  }
+ },
+ "sa_3604651.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5075,
+   "outdoor": 0.4722,
+   "other": 0.0203
+  }
+ },
+ "sa_3608697.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0083,
+   "outdoor": 0.7018,
+   "other": 0.2899
+  }
+ },
+ "sa_3631141.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0065,
+   "outdoor": 0.8869,
+   "other": 0.1066
+  }
+ },
+ "sa_3681973.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3710323.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0367,
+   "outdoor": 0.7622,
+   "other": 0.2012
+  }
+ },
+ "sa_3730999.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0238,
+   "outdoor": 0.8362,
+   "other": 0.1401
+  }
+ },
+ "sa_3733637.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9368,
+   "outdoor": 0.0593,
+   "other": 0.0039
+  }
+ },
+ "sa_3740343.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5168,
+   "outdoor": 0.2796,
+   "other": 0.2037
+  }
+ },
+ "sa_3762104.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0188,
+   "outdoor": 0.8918,
+   "other": 0.0894
+  }
+ },
+ "sa_3785921.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.422,
+   "outdoor": 0.5737,
+   "other": 0.0043
+  }
+ },
+ "sa_3788199.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0014,
+   "outdoor": 0.2277,
+   "other": 0.7709
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3801854.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9872,
+   "outdoor": 0.0058,
+   "other": 0.0069
+  }
+ },
+ "sa_3801939.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6645,
+   "outdoor": 0.2021,
+   "other": 0.1334
+  }
+ },
+ "sa_3823240.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3393,
+   "outdoor": 0.3942,
+   "other": 0.2665
+  }
+ },
+ "sa_3829285.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0791,
+   "outdoor": 0.9103,
+   "other": 0.0105
+  }
+ },
+ "sa_3835950.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3837448.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0398,
+   "outdoor": 0.8628,
+   "other": 0.0973
+  }
+ },
+ "sa_3846460.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0112,
+   "outdoor": 0.9509,
+   "other": 0.0379
+  }
+ },
+ "sa_3863848.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0177,
+   "outdoor": 0.5902,
+   "other": 0.3921
+  }
+ },
+ "sa_3865404.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3887742.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.004,
+   "outdoor": 0.9555,
+   "other": 0.0405
+  }
+ },
+ "sa_3892209.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3621,
+   "outdoor": 0.6238,
+   "other": 0.0141
+  }
+ },
+ "sa_3905628.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0036,
+   "outdoor": 0.9302,
+   "other": 0.0662
+  }
+ },
+ "sa_39152.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0016,
+   "other": 0.9983
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3917765.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0176,
+   "outdoor": 0.8077,
+   "other": 0.1747
+  }
+ },
+ "sa_3934587.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5619,
+   "outdoor": 0.4086,
+   "other": 0.0295
+  }
+ },
+ "sa_3947708.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0254,
+   "outdoor": 0.3905,
+   "other": 0.5841
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_3949174.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3950215.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1282,
+   "outdoor": 0.7282,
+   "other": 0.1436
+  }
+ },
+ "sa_3953598.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3959914.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0498,
+   "outdoor": 0.9332,
+   "other": 0.0169
+  }
+ },
+ "sa_3961272.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0188,
+   "outdoor": 0.7682,
+   "other": 0.2131
+  }
+ },
+ "sa_3965264.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0104,
+   "outdoor": 0.9844,
+   "other": 0.0053
+  }
+ },
+ "sa_3974365.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0222,
+   "outdoor": 0.7508,
+   "other": 0.227
+  }
+ },
+ "sa_3979851.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_3981760.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0028,
+   "outdoor": 0.9014,
+   "other": 0.0958
+  }
+ },
+ "sa_3982649.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8757,
+   "outdoor": 0.0603,
+   "other": 0.064
+  }
+ },
+ "sa_3983752.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0954,
+   "outdoor": 0.7455,
+   "other": 0.1591
+  }
+ },
+ "sa_4016199.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.9728,
+   "other": 0.0269
+  }
+ },
+ "sa_4042240.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0664,
+   "outdoor": 0.9112,
+   "other": 0.0224
+  }
+ },
+ "sa_4042684.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1325,
+   "outdoor": 0.4034,
+   "other": 0.4642
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4050562.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3789,
+   "outdoor": 0.4748,
+   "other": 0.1463
+  }
+ },
+ "sa_4061552.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.1595,
+   "outdoor": 0.0767,
+   "other": 0.7638
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4063158.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0009,
+   "other": 0.9991
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_406655.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2489,
+   "outdoor": 0.5683,
+   "other": 0.1828
+  }
+ },
+ "sa_4067358.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.951,
+   "outdoor": 0.0448,
+   "other": 0.0042
+  }
+ },
+ "sa_407189.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9483,
+   "outdoor": 0.0455,
+   "other": 0.0062
+  }
+ },
+ "sa_4077729.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0635,
+   "outdoor": 0.8704,
+   "other": 0.0661
+  }
+ },
+ "sa_411316.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0738,
+   "outdoor": 0.9204,
+   "other": 0.0058
+  }
+ },
+ "sa_4114252.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0544,
+   "outdoor": 0.9369,
+   "other": 0.0087
+  }
+ },
+ "sa_4121262.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0374,
+   "outdoor": 0.8728,
+   "other": 0.0897
+  }
+ },
+ "sa_4122105.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9901,
+   "outdoor": 0.005,
+   "other": 0.0049
+  }
+ },
+ "sa_4138796.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0097,
+   "outdoor": 0.2521,
+   "other": 0.7382
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_414676.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0047,
+   "outdoor": 0.9506,
+   "other": 0.0447
+  }
+ },
+ "sa_4150531.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4769,
+   "outdoor": 0.4981,
+   "other": 0.025
+  }
+ },
+ "sa_4152490.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5607,
+   "outdoor": 0.1845,
+   "other": 0.2548
+  }
+ },
+ "sa_4188520.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.1801,
+   "outdoor": 0.1706,
+   "other": 0.6493
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4191542.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0499,
+   "outdoor": 0.9459,
+   "other": 0.0042
+  }
+ },
+ "sa_4195841.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5463,
+   "outdoor": 0.3163,
+   "other": 0.1374
+  }
+ },
+ "sa_4207608.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0673,
+   "outdoor": 0.8889,
+   "other": 0.0438
+  }
+ },
+ "sa_4214660.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7243,
+   "outdoor": 0.2499,
+   "other": 0.0258
+  }
+ },
+ "sa_423889.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4250332.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0413,
+   "outdoor": 0.4942,
+   "other": 0.4645
+  }
+ },
+ "sa_4281080.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0137,
+   "outdoor": 0.9646,
+   "other": 0.0217
+  }
+ },
+ "sa_4296709.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0003,
+   "outdoor": 0.0028,
+   "other": 0.9969
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_429746.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0546,
+   "outdoor": 0.9405,
+   "other": 0.0049
+  }
+ },
+ "sa_4307493.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.002,
+   "outdoor": 0.154,
+   "other": 0.844
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4311651.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1067,
+   "outdoor": 0.8787,
+   "other": 0.0146
+  }
+ },
+ "sa_4315493.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4473,
+   "outdoor": 0.5238,
+   "other": 0.0289
+  }
+ },
+ "sa_4327310.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0224,
+   "outdoor": 0.6975,
+   "other": 0.2801
+  }
+ },
+ "sa_433662.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0109,
+   "outdoor": 0.4939,
+   "other": 0.4952
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4361655.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0049,
+   "outdoor": 0.1439,
+   "other": 0.8513
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4365982.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1865,
+   "outdoor": 0.7057,
+   "other": 0.1078
+  }
+ },
+ "sa_4366803.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4367494.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.387,
+   "outdoor": 0.6007,
+   "other": 0.0123
+  }
+ },
+ "sa_4374490.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2875,
+   "outdoor": 0.3676,
+   "other": 0.3449
+  }
+ },
+ "sa_4375127.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1083,
+   "outdoor": 0.5504,
+   "other": 0.3413
+  }
+ },
+ "sa_4381951.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3687,
+   "outdoor": 0.6206,
+   "other": 0.0107
+  }
+ },
+ "sa_4391083.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0011,
+   "outdoor": 0.0121,
+   "other": 0.9868
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4391187.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0023,
+   "outdoor": 0.9879,
+   "other": 0.0098
+  }
+ },
+ "sa_4396055.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0687,
+   "outdoor": 0.5153,
+   "other": 0.4159
+  }
+ },
+ "sa_4410851.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7836,
+   "outdoor": 0.0758,
+   "other": 0.1406
+  }
+ },
+ "sa_4414837.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0266,
+   "outdoor": 0.9526,
+   "other": 0.0208
+  }
+ },
+ "sa_4419359.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0023,
+   "outdoor": 0.3704,
+   "other": 0.6273
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4446876.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6461,
+   "outdoor": 0.0707,
+   "other": 0.2832
+  }
+ },
+ "sa_445670.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0419,
+   "outdoor": 0.9372,
+   "other": 0.0209
+  }
+ },
+ "sa_445732.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0715,
+   "outdoor": 0.458,
+   "other": 0.4706
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_446309.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2561,
+   "outdoor": 0.5795,
+   "other": 0.1644
+  }
+ },
+ "sa_447899.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0043,
+   "outdoor": 0.9623,
+   "other": 0.0334
+  }
+ },
+ "sa_448480.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0133,
+   "outdoor": 0.9707,
+   "other": 0.016
+  }
+ },
+ "sa_4486511.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0442,
+   "outdoor": 0.8003,
+   "other": 0.1555
+  }
+ },
+ "sa_4494457.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0144,
+   "outdoor": 0.9134,
+   "other": 0.0723
+  }
+ },
+ "sa_449772.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0445,
+   "outdoor": 0.8002,
+   "other": 0.1553
+  }
+ },
+ "sa_4502812.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0836,
+   "outdoor": 0.8542,
+   "other": 0.0623
+  }
+ },
+ "sa_4507374.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5713,
+   "outdoor": 0.0689,
+   "other": 0.3597
+  }
+ },
+ "sa_4526492.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0441,
+   "outdoor": 0.9441,
+   "other": 0.0117
+  }
+ },
+ "sa_4533511.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0315,
+   "outdoor": 0.4764,
+   "other": 0.4921
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4586770.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0789,
+   "outdoor": 0.7898,
+   "other": 0.1313
+  }
+ },
+ "sa_459195.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0148,
+   "outdoor": 0.9839,
+   "other": 0.0013
+  }
+ },
+ "sa_4612423.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0122,
+   "outdoor": 0.9742,
+   "other": 0.0136
+  }
+ },
+ "sa_4634125.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0054,
+   "outdoor": 0.0449,
+   "other": 0.9497
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4662893.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0349,
+   "outdoor": 0.8721,
+   "other": 0.0931
+  }
+ },
+ "sa_4668276.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1101,
+   "outdoor": 0.12,
+   "other": 0.7699
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4722896.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2453,
+   "outdoor": 0.5926,
+   "other": 0.1621
+  }
+ },
+ "sa_4739025.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8464,
+   "outdoor": 0.1176,
+   "other": 0.0361
+  }
+ },
+ "sa_4744555.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1322,
+   "outdoor": 0.8624,
+   "other": 0.0053
+  }
+ },
+ "sa_4754507.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1314,
+   "outdoor": 0.8537,
+   "other": 0.0149
+  }
+ },
+ "sa_4756406.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0159,
+   "outdoor": 0.6399,
+   "other": 0.3441
+  }
+ },
+ "sa_4773901.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9585,
+   "outdoor": 0.0199,
+   "other": 0.0216
+  }
+ },
+ "sa_4778588.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8689,
+   "outdoor": 0.1239,
+   "other": 0.0072
+  }
+ },
+ "sa_4779393.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8926,
+   "outdoor": 0.0395,
+   "other": 0.0679
+  }
+ },
+ "sa_4779914.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0372,
+   "outdoor": 0.9343,
+   "other": 0.0285
+  }
+ },
+ "sa_4789318.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0006,
+   "other": 0.9994
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4792555.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.1224,
+   "outdoor": 0.0853,
+   "other": 0.7924
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4809039.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0692,
+   "outdoor": 0.2859,
+   "other": 0.6449
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_4835271.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0315,
+   "outdoor": 0.8249,
+   "other": 0.1436
+  }
+ },
+ "sa_4901409.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8812,
+   "outdoor": 0.0876,
+   "other": 0.0311
+  }
+ },
+ "sa_4918180.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0486,
+   "outdoor": 0.5327,
+   "other": 0.4187
+  }
+ },
+ "sa_4918583.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8534,
+   "outdoor": 0.1264,
+   "other": 0.0202
+  }
+ },
+ "sa_4926483.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0005,
+   "other": 0.9994
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4946692.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4980010.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5315,
+   "outdoor": 0.3514,
+   "other": 0.1171
+  }
+ },
+ "sa_498896.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0003,
+   "other": 0.9997
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_4989577.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1089,
+   "outdoor": 0.8417,
+   "other": 0.0494
+  }
+ },
+ "sa_4996591.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6944,
+   "outdoor": 0.2939,
+   "other": 0.0117
+  }
+ },
+ "sa_5003383.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2029,
+   "outdoor": 0.1946,
+   "other": 0.6025
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5011905.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0181,
+   "outdoor": 0.8973,
+   "other": 0.0847
+  }
+ },
+ "sa_5014450.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0003,
+   "other": 0.9996
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_501549.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4007,
+   "outdoor": 0.0474,
+   "other": 0.5519
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_501663.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9479,
+   "outdoor": 0.0125,
+   "other": 0.0395
+  }
+ },
+ "sa_5023900.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0409,
+   "outdoor": 0.9314,
+   "other": 0.0277
+  }
+ },
+ "sa_5026882.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0873,
+   "outdoor": 0.8592,
+   "other": 0.0535
+  }
+ },
+ "sa_5030935.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0151,
+   "outdoor": 0.7753,
+   "other": 0.2097
+  }
+ },
+ "sa_5048589.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1889,
+   "outdoor": 0.7172,
+   "other": 0.0939
+  }
+ },
+ "sa_5065749.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9388,
+   "outdoor": 0.0141,
+   "other": 0.0471
+  }
+ },
+ "sa_5067661.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0149,
+   "outdoor": 0.9517,
+   "other": 0.0334
+  }
+ },
+ "sa_507114.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2075,
+   "outdoor": 0.7226,
+   "other": 0.0699
+  }
+ },
+ "sa_5075202.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1427,
+   "outdoor": 0.7428,
+   "other": 0.1145
+  }
+ },
+ "sa_5082862.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7543,
+   "outdoor": 0.2166,
+   "other": 0.029
+  }
+ },
+ "sa_5095828.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5097908.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6107,
+   "outdoor": 0.2946,
+   "other": 0.0947
+  }
+ },
+ "sa_51051.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0193,
+   "outdoor": 0.8955,
+   "other": 0.0852
+  }
+ },
+ "sa_5130539.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0474,
+   "outdoor": 0.9189,
+   "other": 0.0337
+  }
+ },
+ "sa_5149260.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9593,
+   "outdoor": 0.0292,
+   "other": 0.0116
+  }
+ },
+ "sa_5160880.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0189,
+   "outdoor": 0.9633,
+   "other": 0.0178
+  }
+ },
+ "sa_5186849.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2596,
+   "outdoor": 0.4118,
+   "other": 0.3285
+  }
+ },
+ "sa_518837.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0072,
+   "outdoor": 0.9755,
+   "other": 0.0174
+  }
+ },
+ "sa_5189575.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0762,
+   "outdoor": 0.2424,
+   "other": 0.6815
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5197257.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1652,
+   "outdoor": 0.6551,
+   "other": 0.1797
+  }
+ },
+ "sa_5207444.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9484,
+   "outdoor": 0.034,
+   "other": 0.0176
+  }
+ },
+ "sa_5223160.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9575,
+   "outdoor": 0.0254,
+   "other": 0.017
+  }
+ },
+ "sa_5226144.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0153,
+   "outdoor": 0.8498,
+   "other": 0.1349
+  }
+ },
+ "sa_522633.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0224,
+   "outdoor": 0.7486,
+   "other": 0.229
+  }
+ },
+ "sa_5240312.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.608,
+   "outdoor": 0.2648,
+   "other": 0.1272
+  }
+ },
+ "sa_5244795.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1986,
+   "outdoor": 0.7319,
+   "other": 0.0695
+  }
+ },
+ "sa_5247955.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1314,
+   "outdoor": 0.8338,
+   "other": 0.0347
+  }
+ },
+ "sa_5249411.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.002,
+   "outdoor": 0.9474,
+   "other": 0.0507
+  }
+ },
+ "sa_5252130.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.46,
+   "outdoor": 0.3588,
+   "other": 0.1811
+  }
+ },
+ "sa_5255060.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2556,
+   "outdoor": 0.1037,
+   "other": 0.6407
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5275508.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0025,
+   "outdoor": 0.8923,
+   "other": 0.1052
+  }
+ },
+ "sa_5286418.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1736,
+   "outdoor": 0.6163,
+   "other": 0.2101
+  }
+ },
+ "sa_5303325.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.0052,
+   "other": 0.9946
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5309968.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1406,
+   "outdoor": 0.757,
+   "other": 0.1025
+  }
+ },
+ "sa_5311161.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0015,
+   "outdoor": 0.9885,
+   "other": 0.01
+  }
+ },
+ "sa_5323081.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2017,
+   "outdoor": 0.5816,
+   "other": 0.2167
+  }
+ },
+ "sa_5326079.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0159,
+   "outdoor": 0.1971,
+   "other": 0.787
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5329291.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7064,
+   "outdoor": 0.2599,
+   "other": 0.0337
+  }
+ },
+ "sa_5329476.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4483,
+   "outdoor": 0.5126,
+   "other": 0.0391
+  }
+ },
+ "sa_5335651.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9363,
+   "outdoor": 0.0076,
+   "other": 0.0561
+  }
+ },
+ "sa_5362671.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2062,
+   "outdoor": 0.6521,
+   "other": 0.1418
+  }
+ },
+ "sa_5387618.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.24,
+   "outdoor": 0.7364,
+   "other": 0.0236
+  }
+ },
+ "sa_5394261.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9907,
+   "outdoor": 0.0076,
+   "other": 0.0017
+  }
+ },
+ "sa_5401795.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1333,
+   "outdoor": 0.6929,
+   "other": 0.1737
+  }
+ },
+ "sa_5442260.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0011,
+   "other": 0.9989
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5443912.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0063,
+   "outdoor": 0.7799,
+   "other": 0.2139
+  }
+ },
+ "sa_5456444.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0072,
+   "outdoor": 0.9677,
+   "other": 0.0251
+  }
+ },
+ "sa_5471694.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0916,
+   "outdoor": 0.8312,
+   "other": 0.0772
+  }
+ },
+ "sa_5491159.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0279,
+   "outdoor": 0.8441,
+   "other": 0.128
+  }
+ },
+ "sa_5501347.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.004,
+   "outdoor": 0.8396,
+   "other": 0.1564
+  }
+ },
+ "sa_5506648.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9094,
+   "outdoor": 0.0496,
+   "other": 0.041
+  }
+ },
+ "sa_5510657.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1877,
+   "outdoor": 0.4464,
+   "other": 0.3659
+  }
+ },
+ "sa_5515328.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0147,
+   "outdoor": 0.981,
+   "other": 0.0043
+  }
+ },
+ "sa_5516690.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9382,
+   "outdoor": 0.0597,
+   "other": 0.0021
+  }
+ },
+ "sa_5519815.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0189,
+   "outdoor": 0.9665,
+   "other": 0.0145
+  }
+ },
+ "sa_553881.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0009,
+   "other": 0.999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5560444.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0104,
+   "outdoor": 0.9128,
+   "other": 0.0768
+  }
+ },
+ "sa_5564292.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.011,
+   "outdoor": 0.8638,
+   "other": 0.1252
+  }
+ },
+ "sa_5566184.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6842,
+   "outdoor": 0.0993,
+   "other": 0.2166
+  }
+ },
+ "sa_556843.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2122,
+   "outdoor": 0.7799,
+   "other": 0.008
+  }
+ },
+ "sa_5588851.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5600738.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5612708.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0004,
+   "other": 0.9996
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5627105.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0019,
+   "outdoor": 0.9936,
+   "other": 0.0045
+  }
+ },
+ "sa_5628606.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0113,
+   "outdoor": 0.4579,
+   "other": 0.5308
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_563356.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4722,
+   "outdoor": 0.4817,
+   "other": 0.0462
+  }
+ },
+ "sa_5635052.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0455,
+   "outdoor": 0.3562,
+   "other": 0.5983
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5637222.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2433,
+   "outdoor": 0.7278,
+   "other": 0.0289
+  }
+ },
+ "sa_5656922.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0105,
+   "outdoor": 0.1076,
+   "other": 0.8819
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_5664198.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0403,
+   "outdoor": 0.9114,
+   "other": 0.0483
+  }
+ },
+ "sa_5683912.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1301,
+   "outdoor": 0.8511,
+   "other": 0.0189
+  }
+ },
+ "sa_5697748.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1163,
+   "outdoor": 0.8695,
+   "other": 0.0141
+  }
+ },
+ "sa_5703426.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0278,
+   "outdoor": 0.9583,
+   "other": 0.0139
+  }
+ },
+ "sa_5716290.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0108,
+   "outdoor": 0.8801,
+   "other": 0.1091
+  }
+ },
+ "sa_5716601.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4328,
+   "outdoor": 0.5315,
+   "other": 0.0357
+  }
+ },
+ "sa_5746418.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.984,
+   "outdoor": 0.0113,
+   "other": 0.0047
+  }
+ },
+ "sa_5767901.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0356,
+   "outdoor": 0.9272,
+   "other": 0.0372
+  }
+ },
+ "sa_5770099.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.041,
+   "outdoor": 0.94,
+   "other": 0.019
+  }
+ },
+ "sa_5773580.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1097,
+   "outdoor": 0.7503,
+   "other": 0.14
+  }
+ },
+ "sa_5776623.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2992,
+   "outdoor": 0.6264,
+   "other": 0.0743
+  }
+ },
+ "sa_5789634.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.0095,
+   "other": 0.9902
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5815674.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4768,
+   "outdoor": 0.5098,
+   "other": 0.0135
+  }
+ },
+ "sa_5819402.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8466,
+   "outdoor": 0.1221,
+   "other": 0.0313
+  }
+ },
+ "sa_5832121.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0594,
+   "outdoor": 0.5041,
+   "other": 0.4364
+  }
+ },
+ "sa_5846784.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5848455.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0401,
+   "outdoor": 0.6222,
+   "other": 0.3377
+  }
+ },
+ "sa_5855465.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0179,
+   "outdoor": 0.7392,
+   "other": 0.2429
+  }
+ },
+ "sa_5855892.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0056,
+   "other": 0.9943
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5880962.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9694,
+   "outdoor": 0.0142,
+   "other": 0.0164
+  }
+ },
+ "sa_5881598.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2876,
+   "outdoor": 0.3823,
+   "other": 0.3302
+  },
+  "reviewed": true,
+  "note": "car on display in a hall"
+ },
+ "sa_5892116.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.141,
+   "outdoor": 0.7051,
+   "other": 0.1538
+  }
+ },
+ "sa_5893103.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9862,
+   "outdoor": 0.0115,
+   "other": 0.0023
+  }
+ },
+ "sa_5893335.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9799,
+   "outdoor": 0.018,
+   "other": 0.0021
+  }
+ },
+ "sa_5897574.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0533,
+   "outdoor": 0.9157,
+   "other": 0.031
+  }
+ },
+ "sa_5902157.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2294,
+   "outdoor": 0.6068,
+   "other": 0.1638
+  }
+ },
+ "sa_5906782.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0383,
+   "outdoor": 0.8096,
+   "other": 0.1522
+  }
+ },
+ "sa_5922737.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0311,
+   "outdoor": 0.5503,
+   "other": 0.4186
+  }
+ },
+ "sa_5924118.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0105,
+   "outdoor": 0.9431,
+   "other": 0.0464
+  }
+ },
+ "sa_5928963.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0406,
+   "outdoor": 0.0529,
+   "other": 0.9066
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_595228.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9936,
+   "outdoor": 0.0033,
+   "other": 0.0032
+  }
+ },
+ "sa_5952817.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7084,
+   "outdoor": 0.2838,
+   "other": 0.0078
+  }
+ },
+ "sa_597617.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.756,
+   "outdoor": 0.1187,
+   "other": 0.1253
+  }
+ },
+ "sa_5991851.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_5994302.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0231,
+   "outdoor": 0.9687,
+   "other": 0.0082
+  }
+ },
+ "sa_5996231.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3415,
+   "outdoor": 0.6111,
+   "other": 0.0474
+  }
+ },
+ "sa_5996483.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0067,
+   "outdoor": 0.9785,
+   "other": 0.0148
+  }
+ },
+ "sa_601857.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3395,
+   "outdoor": 0.4857,
+   "other": 0.1748
+  }
+ },
+ "sa_6030359.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0317,
+   "outdoor": 0.9272,
+   "other": 0.0411
+  }
+ },
+ "sa_6036418.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0151,
+   "outdoor": 0.4168,
+   "other": 0.5682
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6040452.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0765,
+   "outdoor": 0.8253,
+   "other": 0.0982
+  }
+ },
+ "sa_6040823.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2156,
+   "outdoor": 0.5858,
+   "other": 0.1986
+  }
+ },
+ "sa_6042788.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2454,
+   "outdoor": 0.1837,
+   "other": 0.571
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6051560.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0684,
+   "outdoor": 0.9268,
+   "other": 0.0048
+  }
+ },
+ "sa_6064194.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0033,
+   "outdoor": 0.0102,
+   "other": 0.9866
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6077069.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0381,
+   "outdoor": 0.91,
+   "other": 0.0519
+  }
+ },
+ "sa_6091580.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.123,
+   "outdoor": 0.3195,
+   "other": 0.5575
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6116662.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1698,
+   "outdoor": 0.3366,
+   "other": 0.4936
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_613003.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.001,
+   "outdoor": 0.9706,
+   "other": 0.0284
+  }
+ },
+ "sa_613405.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3153,
+   "outdoor": 0.5077,
+   "other": 0.177
+  }
+ },
+ "sa_6135935.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1757,
+   "outdoor": 0.6391,
+   "other": 0.1852
+  }
+ },
+ "sa_6142573.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6745,
+   "outdoor": 0.0487,
+   "other": 0.2769
+  }
+ },
+ "sa_6143018.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1255,
+   "outdoor": 0.797,
+   "other": 0.0775
+  }
+ },
+ "sa_6159648.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_6181801.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0161,
+   "outdoor": 0.4919,
+   "other": 0.4921
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6181932.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0037,
+   "outdoor": 0.4177,
+   "other": 0.5786
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_620794.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0732,
+   "outdoor": 0.923,
+   "other": 0.0038
+  }
+ },
+ "sa_6214593.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0904,
+   "outdoor": 0.8267,
+   "other": 0.0829
+  }
+ },
+ "sa_6221802.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0264,
+   "outdoor": 0.4569,
+   "other": 0.5168
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6225597.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0761,
+   "outdoor": 0.8949,
+   "other": 0.029
+  }
+ },
+ "sa_6236127.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_623634.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0201,
+   "outdoor": 0.9756,
+   "other": 0.0043
+  }
+ },
+ "sa_6247802.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0073,
+   "outdoor": 0.972,
+   "other": 0.0207
+  }
+ },
+ "sa_6254027.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1009,
+   "outdoor": 0.7318,
+   "other": 0.1673
+  }
+ },
+ "sa_6267278.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1997,
+   "outdoor": 0.6088,
+   "other": 0.1914
+  }
+ },
+ "sa_6272425.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0369,
+   "outdoor": 0.1933,
+   "other": 0.7698
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6286039.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9029,
+   "outdoor": 0.078,
+   "other": 0.0191
+  }
+ },
+ "sa_6298183.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1075,
+   "outdoor": 0.8529,
+   "other": 0.0396
+  }
+ },
+ "sa_6298590.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8422,
+   "outdoor": 0.1459,
+   "other": 0.0119
+  }
+ },
+ "sa_6300700.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7422,
+   "outdoor": 0.1065,
+   "other": 0.1512
+  }
+ },
+ "sa_6306314.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8714,
+   "outdoor": 0.1061,
+   "other": 0.0225
+  }
+ },
+ "sa_6311073.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2997,
+   "outdoor": 0.6349,
+   "other": 0.0654
+  }
+ },
+ "sa_6316985.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4285,
+   "outdoor": 0.5376,
+   "other": 0.0339
+  }
+ },
+ "sa_6332030.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.001,
+   "outdoor": 0.1395,
+   "other": 0.8595
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6373474.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0462,
+   "outdoor": 0.9501,
+   "other": 0.0037
+  }
+ },
+ "sa_6415892.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0595,
+   "outdoor": 0.9053,
+   "other": 0.0351
+  }
+ },
+ "sa_642219.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0617,
+   "outdoor": 0.4876,
+   "other": 0.4508
+  }
+ },
+ "sa_6428648.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9905,
+   "outdoor": 0.0063,
+   "other": 0.0032
+  }
+ },
+ "sa_644064.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0021,
+   "outdoor": 0.9938,
+   "other": 0.004
+  }
+ },
+ "sa_6466480.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4092,
+   "outdoor": 0.1599,
+   "other": 0.431
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6485112.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0195,
+   "outdoor": 0.976,
+   "other": 0.0045
+  }
+ },
+ "sa_6488604.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2966,
+   "outdoor": 0.115,
+   "other": 0.5885
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6495188.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0795,
+   "outdoor": 0.9178,
+   "other": 0.0026
+  }
+ },
+ "sa_6499424.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0451,
+   "outdoor": 0.9325,
+   "other": 0.0224
+  }
+ },
+ "sa_6512837.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5349,
+   "outdoor": 0.1586,
+   "other": 0.3065
+  }
+ },
+ "sa_6522041.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2731,
+   "outdoor": 0.6755,
+   "other": 0.0514
+  }
+ },
+ "sa_6533837.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0335,
+   "outdoor": 0.9542,
+   "other": 0.0123
+  }
+ },
+ "sa_6537020.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0087,
+   "outdoor": 0.1592,
+   "other": 0.8321
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6537088.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9185,
+   "outdoor": 0.0709,
+   "other": 0.0106
+  }
+ },
+ "sa_6537167.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0047,
+   "outdoor": 0.0571,
+   "other": 0.9382
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6562171.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4104,
+   "outdoor": 0.3503,
+   "other": 0.2392
+  }
+ },
+ "sa_6582942.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2537,
+   "outdoor": 0.7262,
+   "other": 0.0201
+  }
+ },
+ "sa_6586876.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1128,
+   "outdoor": 0.8422,
+   "other": 0.045
+  }
+ },
+ "sa_6589538.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0229,
+   "outdoor": 0.8574,
+   "other": 0.1197
+  }
+ },
+ "sa_6610960.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0913,
+   "outdoor": 0.8897,
+   "other": 0.0189
+  }
+ },
+ "sa_661760.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_6620618.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0169,
+   "outdoor": 0.9654,
+   "other": 0.0177
+  }
+ },
+ "sa_6625317.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.436,
+   "outdoor": 0.278,
+   "other": 0.286
+  }
+ },
+ "sa_6633265.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0162,
+   "outdoor": 0.9642,
+   "other": 0.0196
+  }
+ },
+ "sa_6648795.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0568,
+   "outdoor": 0.8845,
+   "other": 0.0586
+  }
+ },
+ "sa_6651662.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5794,
+   "outdoor": 0.3234,
+   "other": 0.0971
+  }
+ },
+ "sa_6657780.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8213,
+   "outdoor": 0.1495,
+   "other": 0.0292
+  }
+ },
+ "sa_6685049.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0729,
+   "outdoor": 0.6308,
+   "other": 0.2964
+  }
+ },
+ "sa_6693047.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0006,
+   "outdoor": 0.9951,
+   "other": 0.0043
+  }
+ },
+ "sa_6697772.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3412,
+   "outdoor": 0.1792,
+   "other": 0.4796
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6702122.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0787,
+   "outdoor": 0.9031,
+   "other": 0.0182
+  }
+ },
+ "sa_6714469.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0037,
+   "outdoor": 0.9722,
+   "other": 0.0241
+  }
+ },
+ "sa_6740087.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0703,
+   "outdoor": 0.9039,
+   "other": 0.0258
+  }
+ },
+ "sa_6744263.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0602,
+   "outdoor": 0.9274,
+   "other": 0.0125
+  }
+ },
+ "sa_6773655.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.217,
+   "outdoor": 0.0641,
+   "other": 0.7189
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6779196.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2794,
+   "outdoor": 0.7013,
+   "other": 0.0193
+  }
+ },
+ "sa_6785928.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0523,
+   "outdoor": 0.9354,
+   "other": 0.0123
+  }
+ },
+ "sa_6792984.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.087,
+   "outdoor": 0.5485,
+   "other": 0.3646
+  }
+ },
+ "sa_6793814.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0005,
+   "other": 0.9995
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_6804815.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9594,
+   "outdoor": 0.0349,
+   "other": 0.0057
+  }
+ },
+ "sa_6805767.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.847,
+   "outdoor": 0.0516,
+   "other": 0.1014
+  }
+ },
+ "sa_681916.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0319,
+   "outdoor": 0.9651,
+   "other": 0.0031
+  }
+ },
+ "sa_6824208.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0917,
+   "outdoor": 0.8997,
+   "other": 0.0085
+  }
+ },
+ "sa_6826776.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4558,
+   "outdoor": 0.2301,
+   "other": 0.3141
+  }
+ },
+ "sa_6830294.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0011,
+   "outdoor": 0.9911,
+   "other": 0.0078
+  }
+ },
+ "sa_683657.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.005,
+   "outdoor": 0.9351,
+   "other": 0.0598
+  }
+ },
+ "sa_6838785.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0289,
+   "outdoor": 0.7096,
+   "other": 0.2614
+  }
+ },
+ "sa_6842337.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0043,
+   "outdoor": 0.9521,
+   "other": 0.0436
+  }
+ },
+ "sa_6857298.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1121,
+   "outdoor": 0.8811,
+   "other": 0.0068
+  }
+ },
+ "sa_6857932.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0727,
+   "outdoor": 0.8624,
+   "other": 0.0649
+  }
+ },
+ "sa_6858688.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0353,
+   "outdoor": 0.6154,
+   "other": 0.3493
+  }
+ },
+ "sa_6863626.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0457,
+   "outdoor": 0.9418,
+   "other": 0.0125
+  }
+ },
+ "sa_6867480.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0298,
+   "outdoor": 0.9536,
+   "other": 0.0165
+  }
+ },
+ "sa_6880152.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2604,
+   "outdoor": 0.7077,
+   "other": 0.032
+  }
+ },
+ "sa_6903320.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0351,
+   "outdoor": 0.9359,
+   "other": 0.0291
+  }
+ },
+ "sa_6905702.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.387,
+   "outdoor": 0.2726,
+   "other": 0.3404
+  }
+ },
+ "sa_6934776.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8267,
+   "outdoor": 0.1497,
+   "other": 0.0236
+  }
+ },
+ "sa_694268.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.783,
+   "outdoor": 0.0637,
+   "other": 0.1533
+  }
+ },
+ "sa_694688.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0252,
+   "outdoor": 0.4545,
+   "other": 0.5203
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_6950003.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6258,
+   "outdoor": 0.0408,
+   "other": 0.3334
+  }
+ },
+ "sa_696567.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9155,
+   "outdoor": 0.0659,
+   "other": 0.0187
+  }
+ },
+ "sa_6966317.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3597,
+   "outdoor": 0.522,
+   "other": 0.1183
+  }
+ },
+ "sa_6975065.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7333,
+   "outdoor": 0.1731,
+   "other": 0.0936
+  }
+ },
+ "sa_6980041.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0602,
+   "outdoor": 0.9074,
+   "other": 0.0324
+  }
+ },
+ "sa_6999350.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5069,
+   "outdoor": 0.3104,
+   "other": 0.1827
+  }
+ },
+ "sa_7009706.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0437,
+   "outdoor": 0.5682,
+   "other": 0.3881
+  }
+ },
+ "sa_7027855.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0353,
+   "outdoor": 0.9515,
+   "other": 0.0132
+  }
+ },
+ "sa_7045002.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2859,
+   "outdoor": 0.2879,
+   "other": 0.4262
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7063732.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0127,
+   "outdoor": 0.7235,
+   "other": 0.2638
+  }
+ },
+ "sa_7071262.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0656,
+   "outdoor": 0.8399,
+   "other": 0.0945
+  }
+ },
+ "sa_7072017.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.012,
+   "outdoor": 0.937,
+   "other": 0.051
+  }
+ },
+ "sa_7078370.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1353,
+   "outdoor": 0.2211,
+   "other": 0.6437
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7081750.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0042,
+   "outdoor": 0.975,
+   "other": 0.0208
+  }
+ },
+ "sa_7091906.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9964,
+   "outdoor": 0.0026,
+   "other": 0.001
+  }
+ },
+ "sa_7092541.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0006,
+   "other": 0.9994
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7100574.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0472,
+   "outdoor": 0.704,
+   "other": 0.2488
+  }
+ },
+ "sa_7102061.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7461,
+   "outdoor": 0.1599,
+   "other": 0.094
+  }
+ },
+ "sa_7103561.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0197,
+   "outdoor": 0.9672,
+   "other": 0.0131
+  }
+ },
+ "sa_7111291.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7115104.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4862,
+   "outdoor": 0.454,
+   "other": 0.0598
+  }
+ },
+ "sa_7120260.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.006,
+   "outdoor": 0.9731,
+   "other": 0.0209
+  }
+ },
+ "sa_7153654.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1815,
+   "outdoor": 0.2774,
+   "other": 0.5411
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7155790.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.008,
+   "outdoor": 0.7576,
+   "other": 0.2344
+  }
+ },
+ "sa_7155812.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0935,
+   "outdoor": 0.2901,
+   "other": 0.6165
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7160616.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2128,
+   "outdoor": 0.7665,
+   "other": 0.0207
+  }
+ },
+ "sa_7173786.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5122,
+   "outdoor": 0.3251,
+   "other": 0.1627
+  }
+ },
+ "sa_7182580.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.053,
+   "outdoor": 0.9282,
+   "other": 0.0188
+  }
+ },
+ "sa_7186682.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0228,
+   "outdoor": 0.7642,
+   "other": 0.213
+  }
+ },
+ "sa_7192664.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0527,
+   "outdoor": 0.9358,
+   "other": 0.0115
+  }
+ },
+ "sa_7196309.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0257,
+   "outdoor": 0.3787,
+   "other": 0.5956
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7201948.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8301,
+   "outdoor": 0.0779,
+   "other": 0.092
+  }
+ },
+ "sa_7237725.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2163,
+   "outdoor": 0.6235,
+   "other": 0.1603
+  }
+ },
+ "sa_7249280.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0239,
+   "outdoor": 0.7883,
+   "other": 0.1878
+  }
+ },
+ "sa_7251822.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9817,
+   "outdoor": 0.013,
+   "other": 0.0053
+  }
+ },
+ "sa_7254271.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2897,
+   "outdoor": 0.6357,
+   "other": 0.0745
+  }
+ },
+ "sa_7256168.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6757,
+   "outdoor": 0.0993,
+   "other": 0.2249
+  }
+ },
+ "sa_7294693.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0098,
+   "outdoor": 0.6919,
+   "other": 0.2983
+  }
+ },
+ "sa_7303618.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0314,
+   "outdoor": 0.9371,
+   "other": 0.0315
+  }
+ },
+ "sa_7311571.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1341,
+   "outdoor": 0.8535,
+   "other": 0.0124
+  }
+ },
+ "sa_7335287.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4872,
+   "outdoor": 0.448,
+   "other": 0.0648
+  }
+ },
+ "sa_7337251.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5238,
+   "outdoor": 0.355,
+   "other": 0.1212
+  }
+ },
+ "sa_7348087.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0314,
+   "outdoor": 0.9673,
+   "other": 0.0014
+  }
+ },
+ "sa_7350758.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6138,
+   "outdoor": 0.2413,
+   "other": 0.1449
+  }
+ },
+ "sa_7354422.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0343,
+   "outdoor": 0.8548,
+   "other": 0.1109
+  }
+ },
+ "sa_7373731.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0067,
+   "outdoor": 0.19,
+   "other": 0.8032
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7383165.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1959,
+   "outdoor": 0.7217,
+   "other": 0.0824
+  }
+ },
+ "sa_7388829.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0572,
+   "outdoor": 0.9063,
+   "other": 0.0365
+  }
+ },
+ "sa_7393404.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1237,
+   "outdoor": 0.1485,
+   "other": 0.7278
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7394702.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0342,
+   "outdoor": 0.9555,
+   "other": 0.0103
+  }
+ },
+ "sa_7411935.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0809,
+   "outdoor": 0.8083,
+   "other": 0.1108
+  }
+ },
+ "sa_7417776.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0086,
+   "outdoor": 0.9849,
+   "other": 0.0066
+  }
+ },
+ "sa_7422512.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8081,
+   "outdoor": 0.1618,
+   "other": 0.0301
+  }
+ },
+ "sa_7431568.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0368,
+   "outdoor": 0.953,
+   "other": 0.0102
+  }
+ },
+ "sa_7437443.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0045,
+   "outdoor": 0.9548,
+   "other": 0.0407
+  }
+ },
+ "sa_7439680.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0003,
+   "other": 0.9997
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7448232.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7451198.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1659,
+   "outdoor": 0.354,
+   "other": 0.4801
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7462296.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7464658.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0834,
+   "outdoor": 0.7111,
+   "other": 0.2054
+  }
+ },
+ "sa_7483516.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0236,
+   "outdoor": 0.9612,
+   "other": 0.0152
+  }
+ },
+ "sa_7483825.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2212,
+   "outdoor": 0.7357,
+   "other": 0.0432
+  }
+ },
+ "sa_7484720.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0029,
+   "other": 0.9971
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7499065.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7691,
+   "outdoor": 0.0989,
+   "other": 0.132
+  }
+ },
+ "sa_7505745.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3333,
+   "outdoor": 0.5515,
+   "other": 0.1152
+  }
+ },
+ "sa_7509669.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4164,
+   "outdoor": 0.4265,
+   "other": 0.1571
+  }
+ },
+ "sa_7511056.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9504,
+   "outdoor": 0.0426,
+   "other": 0.007
+  }
+ },
+ "sa_7518846.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2679,
+   "outdoor": 0.7084,
+   "other": 0.0237
+  }
+ },
+ "sa_75272.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0044,
+   "outdoor": 0.529,
+   "other": 0.4666
+  }
+ },
+ "sa_7532996.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0125,
+   "outdoor": 0.3009,
+   "other": 0.6865
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7538360.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3333,
+   "outdoor": 0.6456,
+   "other": 0.021
+  }
+ },
+ "sa_7549625.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0206,
+   "outdoor": 0.8431,
+   "other": 0.1363
+  }
+ },
+ "sa_7559035.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0052,
+   "outdoor": 0.6825,
+   "other": 0.3123
+  }
+ },
+ "sa_7582192.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2663,
+   "outdoor": 0.107,
+   "other": 0.6266
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7589647.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0096,
+   "outdoor": 0.959,
+   "other": 0.0315
+  }
+ },
+ "sa_7591943.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1043,
+   "outdoor": 0.8867,
+   "other": 0.009
+  }
+ },
+ "sa_7592722.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.01,
+   "outdoor": 0.5231,
+   "other": 0.4669
+  }
+ },
+ "sa_7606288.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.002,
+   "outdoor": 0.977,
+   "other": 0.021
+  }
+ },
+ "sa_7609749.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3352,
+   "outdoor": 0.5186,
+   "other": 0.1462
+  }
+ },
+ "sa_7610550.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9507,
+   "outdoor": 0.0305,
+   "other": 0.0188
+  }
+ },
+ "sa_763587.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0003,
+   "other": 0.9997
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7640407.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6899,
+   "outdoor": 0.0383,
+   "other": 0.2718
+  }
+ },
+ "sa_7647352.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7656376.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0046,
+   "outdoor": 0.9413,
+   "other": 0.0541
+  }
+ },
+ "sa_7666687.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0724,
+   "outdoor": 0.6613,
+   "other": 0.2663
+  }
+ },
+ "sa_7666888.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4223,
+   "outdoor": 0.4325,
+   "other": 0.1452
+  }
+ },
+ "sa_7674786.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0002,
+   "other": 0.9998
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7688576.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0145,
+   "outdoor": 0.4512,
+   "other": 0.5343
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7690719.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0352,
+   "outdoor": 0.6066,
+   "other": 0.3582
+  }
+ },
+ "sa_7706420.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0077,
+   "outdoor": 0.9301,
+   "other": 0.0622
+  }
+ },
+ "sa_7722518.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0018,
+   "outdoor": 0.8654,
+   "other": 0.1328
+  }
+ },
+ "sa_7738537.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0012,
+   "other": 0.9988
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7743410.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9669,
+   "outdoor": 0.0309,
+   "other": 0.0022
+  }
+ },
+ "sa_7758405.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9508,
+   "outdoor": 0.0347,
+   "other": 0.0145
+  }
+ },
+ "sa_7769135.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0561,
+   "outdoor": 0.9159,
+   "other": 0.0279
+  }
+ },
+ "sa_777069.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0979,
+   "outdoor": 0.7489,
+   "other": 0.1532
+  }
+ },
+ "sa_778055.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.592,
+   "outdoor": 0.3652,
+   "other": 0.0427
+  }
+ },
+ "sa_7783003.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1782,
+   "outdoor": 0.6421,
+   "other": 0.1797
+  }
+ },
+ "sa_7800016.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0087,
+   "outdoor": 0.5284,
+   "other": 0.463
+  }
+ },
+ "sa_7800207.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.0027,
+   "other": 0.9972
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_7801618.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.2905,
+   "outdoor": 0.1176,
+   "other": 0.5919
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7804228.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0019,
+   "outdoor": 0.2306,
+   "other": 0.7675
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7805379.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4702,
+   "outdoor": 0.291,
+   "other": 0.2388
+  }
+ },
+ "sa_7849803.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7319,
+   "outdoor": 0.0919,
+   "other": 0.1762
+  }
+ },
+ "sa_7869195.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0082,
+   "outdoor": 0.9082,
+   "other": 0.0836
+  }
+ },
+ "sa_7882769.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0296,
+   "outdoor": 0.442,
+   "other": 0.5285
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_7890960.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.995,
+   "outdoor": 0.0039,
+   "other": 0.0011
+  }
+ },
+ "sa_7891200.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8108,
+   "outdoor": 0.1019,
+   "other": 0.0873
+  }
+ },
+ "sa_7892441.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7826,
+   "outdoor": 0.2005,
+   "other": 0.0168
+  }
+ },
+ "sa_7926660.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4302,
+   "outdoor": 0.3899,
+   "other": 0.1799
+  }
+ },
+ "sa_7927512.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3277,
+   "outdoor": 0.5492,
+   "other": 0.1231
+  }
+ },
+ "sa_7929396.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5569,
+   "outdoor": 0.0963,
+   "other": 0.3468
+  }
+ },
+ "sa_7932240.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9049,
+   "outdoor": 0.0789,
+   "other": 0.0163
+  }
+ },
+ "sa_7933029.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0089,
+   "outdoor": 0.8408,
+   "other": 0.1503
+  }
+ },
+ "sa_7933171.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0166,
+   "outdoor": 0.9719,
+   "other": 0.0115
+  }
+ },
+ "sa_7937271.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5605,
+   "outdoor": 0.1475,
+   "other": 0.2921
+  }
+ },
+ "sa_7941625.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0203,
+   "outdoor": 0.9678,
+   "other": 0.0118
+  }
+ },
+ "sa_7943592.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6033,
+   "outdoor": 0.2532,
+   "other": 0.1435
+  }
+ },
+ "sa_7968996.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5938,
+   "outdoor": 0.3535,
+   "other": 0.0528
+  }
+ },
+ "sa_7970364.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.776,
+   "outdoor": 0.1522,
+   "other": 0.0717
+  }
+ },
+ "sa_7984159.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.034,
+   "outdoor": 0.9561,
+   "other": 0.0099
+  }
+ },
+ "sa_7985571.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3742,
+   "outdoor": 0.3577,
+   "other": 0.2681
+  }
+ },
+ "sa_7999549.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0384,
+   "outdoor": 0.2485,
+   "other": 0.7131
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8000014.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.097,
+   "outdoor": 0.8688,
+   "other": 0.0342
+  }
+ },
+ "sa_8016537.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1001,
+   "outdoor": 0.8796,
+   "other": 0.0203
+  }
+ },
+ "sa_8019597.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0162,
+   "outdoor": 0.8826,
+   "other": 0.1012
+  }
+ },
+ "sa_8020312.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9747,
+   "outdoor": 0.0171,
+   "other": 0.0082
+  }
+ },
+ "sa_8023009.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.95,
+   "outdoor": 0.034,
+   "other": 0.0161
+  }
+ },
+ "sa_8058918.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2049,
+   "outdoor": 0.7437,
+   "other": 0.0515
+  }
+ },
+ "sa_8059972.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3967,
+   "outdoor": 0.5388,
+   "other": 0.0645
+  }
+ },
+ "sa_8060254.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0157,
+   "outdoor": 0.6063,
+   "other": 0.378
+  }
+ },
+ "sa_806075.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0121,
+   "outdoor": 0.7951,
+   "other": 0.1927
+  }
+ },
+ "sa_8064893.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.4151,
+   "outdoor": 0.1503,
+   "other": 0.4346
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8070371.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3339,
+   "outdoor": 0.4728,
+   "other": 0.1933
+  }
+ },
+ "sa_8083042.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0091,
+   "outdoor": 0.2603,
+   "other": 0.7306
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8083267.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3825,
+   "outdoor": 0.5733,
+   "other": 0.0442
+  }
+ },
+ "sa_8091148.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5315,
+   "outdoor": 0.3555,
+   "other": 0.113
+  }
+ },
+ "sa_8122005.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0288,
+   "outdoor": 0.9421,
+   "other": 0.0291
+  }
+ },
+ "sa_8154412.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0652,
+   "outdoor": 0.9094,
+   "other": 0.0255
+  }
+ },
+ "sa_8155539.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1568,
+   "outdoor": 0.6732,
+   "other": 0.17
+  }
+ },
+ "sa_8156819.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0641,
+   "outdoor": 0.7233,
+   "other": 0.2126
+  }
+ },
+ "sa_8156852.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0433,
+   "outdoor": 0.858,
+   "other": 0.0987
+  }
+ },
+ "sa_8170121.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.977,
+   "outdoor": 0.0149,
+   "other": 0.008
+  }
+ },
+ "sa_8178079.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0005,
+   "outdoor": 0.9981,
+   "other": 0.0014
+  }
+ },
+ "sa_8182732.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1266,
+   "outdoor": 0.866,
+   "other": 0.0074
+  }
+ },
+ "sa_8189655.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6935,
+   "outdoor": 0.2662,
+   "other": 0.0403
+  }
+ },
+ "sa_8190314.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0061,
+   "outdoor": 0.8377,
+   "other": 0.1563
+  }
+ },
+ "sa_819147.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1752,
+   "outdoor": 0.5308,
+   "other": 0.294
+  }
+ },
+ "sa_8208480.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.015,
+   "outdoor": 0.9467,
+   "other": 0.0383
+  }
+ },
+ "sa_8211719.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6319,
+   "outdoor": 0.0921,
+   "other": 0.276
+  }
+ },
+ "sa_821489.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0009,
+   "outdoor": 0.0605,
+   "other": 0.9385
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8216378.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0212,
+   "outdoor": 0.9604,
+   "other": 0.0184
+  }
+ },
+ "sa_8233015.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.044,
+   "outdoor": 0.935,
+   "other": 0.021
+  }
+ },
+ "sa_8258062.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2219,
+   "outdoor": 0.675,
+   "other": 0.103
+  }
+ },
+ "sa_8266863.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0177,
+   "outdoor": 0.741,
+   "other": 0.2413
+  }
+ },
+ "sa_8268427.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2946,
+   "outdoor": 0.6051,
+   "other": 0.1003
+  }
+ },
+ "sa_8302708.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.3906,
+   "outdoor": 0.3325,
+   "other": 0.2768
+  }
+ },
+ "sa_8303666.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.167,
+   "outdoor": 0.817,
+   "other": 0.016
+  }
+ },
+ "sa_8327084.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2829,
+   "outdoor": 0.6563,
+   "other": 0.0608
+  }
+ },
+ "sa_8343235.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9429,
+   "outdoor": 0.02,
+   "other": 0.0371
+  }
+ },
+ "sa_8344806.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9688,
+   "outdoor": 0.0136,
+   "other": 0.0176
+  }
+ },
+ "sa_834672.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.12,
+   "outdoor": 0.6478,
+   "other": 0.2322
+  }
+ },
+ "sa_8359057.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2103,
+   "outdoor": 0.3858,
+   "other": 0.4039
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8362047.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.352,
+   "outdoor": 0.1916,
+   "other": 0.4564
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8393082.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0165,
+   "outdoor": 0.9131,
+   "other": 0.0704
+  }
+ },
+ "sa_839370.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0972,
+   "outdoor": 0.6172,
+   "other": 0.2857
+  }
+ },
+ "sa_8402293.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0167,
+   "outdoor": 0.5041,
+   "other": 0.4792
+  }
+ },
+ "sa_8409015.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0697,
+   "outdoor": 0.8914,
+   "other": 0.0389
+  }
+ },
+ "sa_8419454.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.092,
+   "outdoor": 0.7892,
+   "other": 0.1187
+  }
+ },
+ "sa_8423250.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0014,
+   "outdoor": 0.9854,
+   "other": 0.0132
+  }
+ },
+ "sa_8424568.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1699,
+   "outdoor": 0.7688,
+   "other": 0.0614
+  }
+ },
+ "sa_8434751.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4078,
+   "outdoor": 0.5641,
+   "other": 0.0281
+  }
+ },
+ "sa_8445115.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9399,
+   "outdoor": 0.0445,
+   "other": 0.0156
+  }
+ },
+ "sa_845277.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3127,
+   "outdoor": 0.569,
+   "other": 0.1183
+  }
+ },
+ "sa_8454314.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1834,
+   "outdoor": 0.6574,
+   "other": 0.1592
+  }
+ },
+ "sa_8455994.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.744,
+   "outdoor": 0.118,
+   "other": 0.138
+  }
+ },
+ "sa_8456563.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_8485921.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5327,
+   "outdoor": 0.2295,
+   "other": 0.2378
+  }
+ },
+ "sa_8486059.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0697,
+   "outdoor": 0.8514,
+   "other": 0.079
+  }
+ },
+ "sa_8490651.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0569,
+   "outdoor": 0.9133,
+   "other": 0.0299
+  }
+ },
+ "sa_850976.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1576,
+   "outdoor": 0.7279,
+   "other": 0.1145
+  }
+ },
+ "sa_8539606.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0645,
+   "outdoor": 0.5284,
+   "other": 0.4071
+  }
+ },
+ "sa_8575454.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0328,
+   "outdoor": 0.2059,
+   "other": 0.7614
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8582580.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0747,
+   "outdoor": 0.7524,
+   "other": 0.1729
+  }
+ },
+ "sa_8588778.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0018,
+   "outdoor": 0.9637,
+   "other": 0.0345
+  }
+ },
+ "sa_8591966.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0706,
+   "outdoor": 0.9284,
+   "other": 0.001
+  }
+ },
+ "sa_8615404.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6074,
+   "outdoor": 0.267,
+   "other": 0.1256
+  }
+ },
+ "sa_8649746.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.016,
+   "outdoor": 0.9466,
+   "other": 0.0374
+  }
+ },
+ "sa_8654664.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3415,
+   "outdoor": 0.614,
+   "other": 0.0445
+  }
+ },
+ "sa_8670141.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0212,
+   "outdoor": 0.9639,
+   "other": 0.0148
+  }
+ },
+ "sa_8672780.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_8694731.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3133,
+   "outdoor": 0.5583,
+   "other": 0.1284
+  }
+ },
+ "sa_8700813.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1209,
+   "outdoor": 0.7896,
+   "other": 0.0894
+  }
+ },
+ "sa_8707126.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0176,
+   "outdoor": 0.6176,
+   "other": 0.3648
+  }
+ },
+ "sa_8718796.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9755,
+   "outdoor": 0.0179,
+   "other": 0.0066
+  }
+ },
+ "sa_8725502.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3178,
+   "outdoor": 0.677,
+   "other": 0.0052
+  }
+ },
+ "sa_8728499.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.1959,
+   "outdoor": 0.081,
+   "other": 0.7231
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8735692.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.112,
+   "outdoor": 0.8668,
+   "other": 0.0212
+  }
+ },
+ "sa_8747114.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7761,
+   "outdoor": 0.1517,
+   "other": 0.0722
+  }
+ },
+ "sa_8762410.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8694,
+   "outdoor": 0.0956,
+   "other": 0.035
+  }
+ },
+ "sa_8762551.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3904,
+   "outdoor": 0.4307,
+   "other": 0.1789
+  }
+ },
+ "sa_8772783.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_8776790.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.128,
+   "outdoor": 0.8488,
+   "other": 0.0232
+  }
+ },
+ "sa_8777265.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2839,
+   "outdoor": 0.5722,
+   "other": 0.1439
+  }
+ },
+ "sa_8789817.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5073,
+   "outdoor": 0.1935,
+   "other": 0.2992
+  }
+ },
+ "sa_8790928.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0051,
+   "outdoor": 0.914,
+   "other": 0.0809
+  }
+ },
+ "sa_8791088.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9847,
+   "outdoor": 0.0123,
+   "other": 0.0029
+  }
+ },
+ "sa_8796173.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9879,
+   "outdoor": 0.0057,
+   "other": 0.0064
+  }
+ },
+ "sa_879983.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9542,
+   "outdoor": 0.017,
+   "other": 0.0289
+  }
+ },
+ "sa_8802040.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0235,
+   "outdoor": 0.7433,
+   "other": 0.2331
+  }
+ },
+ "sa_8818673.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1226,
+   "outdoor": 0.1316,
+   "other": 0.7458
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8829099.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1523,
+   "outdoor": 0.7165,
+   "other": 0.1312
+  }
+ },
+ "sa_8867985.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0042,
+   "outdoor": 0.6712,
+   "other": 0.3247
+  }
+ },
+ "sa_8878553.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1816,
+   "outdoor": 0.7042,
+   "other": 0.1142
+  }
+ },
+ "sa_8897313.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0294,
+   "outdoor": 0.9497,
+   "other": 0.0209
+  }
+ },
+ "sa_8918674.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0016,
+   "outdoor": 0.0548,
+   "other": 0.9436
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8931053.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6259,
+   "outdoor": 0.1504,
+   "other": 0.2237
+  }
+ },
+ "sa_893402.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0002,
+   "outdoor": 0.0004,
+   "other": 0.9994
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_894222.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0005,
+   "outdoor": 0.9989,
+   "other": 0.0006
+  }
+ },
+ "sa_8946832.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0012,
+   "outdoor": 0.0245,
+   "other": 0.9743
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_8954861.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0194,
+   "outdoor": 0.9032,
+   "other": 0.0774
+  }
+ },
+ "sa_8954972.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.946,
+   "outdoor": 0.0375,
+   "other": 0.0166
+  }
+ },
+ "sa_8972079.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5482,
+   "outdoor": 0.3105,
+   "other": 0.1413
+  }
+ },
+ "sa_8985358.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_8991386.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9551,
+   "outdoor": 0.0302,
+   "other": 0.0148
+  }
+ },
+ "sa_9003461.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9091,
+   "outdoor": 0.084,
+   "other": 0.0069
+  }
+ },
+ "sa_9011192.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0019,
+   "outdoor": 0.7054,
+   "other": 0.2927
+  }
+ },
+ "sa_9031969.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0079,
+   "outdoor": 0.9568,
+   "other": 0.0353
+  }
+ },
+ "sa_9038034.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9041186.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1267,
+   "outdoor": 0.6702,
+   "other": 0.2031
+  }
+ },
+ "sa_9042071.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9050771.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3047,
+   "outdoor": 0.6364,
+   "other": 0.0588
+  }
+ },
+ "sa_9052552.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0047,
+   "outdoor": 0.3526,
+   "other": 0.6428
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_905413.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1372,
+   "outdoor": 0.8541,
+   "other": 0.0087
+  }
+ },
+ "sa_9062866.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0843,
+   "outdoor": 0.9112,
+   "other": 0.0045
+  }
+ },
+ "sa_9092853.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.495,
+   "outdoor": 0.4862,
+   "other": 0.0188
+  }
+ },
+ "sa_9105425.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0099,
+   "outdoor": 0.5736,
+   "other": 0.4165
+  }
+ },
+ "sa_9108329.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.022,
+   "outdoor": 0.9654,
+   "other": 0.0126
+  }
+ },
+ "sa_9117916.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0972,
+   "outdoor": 0.4188,
+   "other": 0.484
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9122999.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.982,
+   "outdoor": 0.0108,
+   "other": 0.0073
+  }
+ },
+ "sa_9123982.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2373,
+   "outdoor": 0.7532,
+   "other": 0.0095
+  }
+ },
+ "sa_9124798.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0666,
+   "outdoor": 0.9104,
+   "other": 0.023
+  }
+ },
+ "sa_9140017.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0104,
+   "outdoor": 0.1894,
+   "other": 0.8002
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9140391.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9141880.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0996,
+   "outdoor": 0.5407,
+   "other": 0.3596
+  }
+ },
+ "sa_9157769.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8698,
+   "outdoor": 0.0486,
+   "other": 0.0816
+  }
+ },
+ "sa_9164931.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0123,
+   "outdoor": 0.9747,
+   "other": 0.013
+  }
+ },
+ "sa_9173106.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3171,
+   "outdoor": 0.3368,
+   "other": 0.3461
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9177101.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2306,
+   "outdoor": 0.3758,
+   "other": 0.3936
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9183440.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0026,
+   "outdoor": 0.985,
+   "other": 0.0124
+  }
+ },
+ "sa_9198485.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0028,
+   "outdoor": 0.1789,
+   "other": 0.8183
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9204883.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0203,
+   "outdoor": 0.8434,
+   "other": 0.1363
+  }
+ },
+ "sa_9207632.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1594,
+   "outdoor": 0.167,
+   "other": 0.6737
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9209795.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.791,
+   "outdoor": 0.0511,
+   "other": 0.1579
+  }
+ },
+ "sa_9212255.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.4326,
+   "outdoor": 0.5039,
+   "other": 0.0635
+  }
+ },
+ "sa_9212284.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.178,
+   "outdoor": 0.5266,
+   "other": 0.2954
+  }
+ },
+ "sa_9217049.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0058,
+   "outdoor": 0.9595,
+   "other": 0.0347
+  }
+ },
+ "sa_9231869.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0031,
+   "outdoor": 0.9956,
+   "other": 0.0013
+  }
+ },
+ "sa_9236773.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0005,
+   "outdoor": 0.9981,
+   "other": 0.0014
+  }
+ },
+ "sa_9264488.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3331,
+   "outdoor": 0.4536,
+   "other": 0.2133
+  }
+ },
+ "sa_9277149.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0022,
+   "outdoor": 0.9838,
+   "other": 0.014
+  }
+ },
+ "sa_9279740.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1953,
+   "outdoor": 0.7189,
+   "other": 0.0858
+  }
+ },
+ "sa_9307411.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0052,
+   "outdoor": 0.7998,
+   "other": 0.1949
+  }
+ },
+ "sa_9312563.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9326196.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3239,
+   "outdoor": 0.6289,
+   "other": 0.0473
+  }
+ },
+ "sa_9332062.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1273,
+   "outdoor": 0.8556,
+   "other": 0.0171
+  }
+ },
+ "sa_9350050.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6367,
+   "outdoor": 0.293,
+   "other": 0.0703
+  }
+ },
+ "sa_9361716.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1267,
+   "outdoor": 0.869,
+   "other": 0.0042
+  }
+ },
+ "sa_9368111.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.5012,
+   "outdoor": 0.3539,
+   "other": 0.1449
+  }
+ },
+ "sa_9375999.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.2113,
+   "outdoor": 0.779,
+   "other": 0.0098
+  }
+ },
+ "sa_938966.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7971,
+   "outdoor": 0.1888,
+   "other": 0.0141
+  }
+ },
+ "sa_9396410.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0007,
+   "other": 0.9993
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_943894.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0041,
+   "outdoor": 0.9885,
+   "other": 0.0074
+  }
+ },
+ "sa_9443117.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0201,
+   "outdoor": 0.9535,
+   "other": 0.0264
+  }
+ },
+ "sa_9450784.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9462948.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0792,
+   "outdoor": 0.9041,
+   "other": 0.0167
+  }
+ },
+ "sa_9464652.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.001,
+   "outdoor": 0.9816,
+   "other": 0.0175
+  }
+ },
+ "sa_9492225.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0595,
+   "outdoor": 0.9257,
+   "other": 0.0148
+  }
+ },
+ "sa_9504047.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1183,
+   "outdoor": 0.4267,
+   "other": 0.4551
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9526318.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0747,
+   "outdoor": 0.9069,
+   "other": 0.0184
+  }
+ },
+ "sa_9538595.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9266,
+   "outdoor": 0.0688,
+   "other": 0.0046
+  }
+ },
+ "sa_9542410.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.6657,
+   "outdoor": 0.2631,
+   "other": 0.0713
+  }
+ },
+ "sa_9545510.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0875,
+   "outdoor": 0.6691,
+   "other": 0.2434
+  }
+ },
+ "sa_9561127.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8757,
+   "outdoor": 0.0459,
+   "other": 0.0784
+  }
+ },
+ "sa_9592917.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0054,
+   "outdoor": 0.8124,
+   "other": 0.1821
+  }
+ },
+ "sa_9604861.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0353,
+   "outdoor": 0.9544,
+   "other": 0.0103
+  }
+ },
+ "sa_961085.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7484,
+   "outdoor": 0.2494,
+   "other": 0.0022
+  }
+ },
+ "sa_9633268.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0448,
+   "outdoor": 0.9524,
+   "other": 0.0028
+  }
+ },
+ "sa_9639288.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0944,
+   "outdoor": 0.8876,
+   "other": 0.018
+  }
+ },
+ "sa_9647642.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9632,
+   "outdoor": 0.01,
+   "other": 0.0267
+  }
+ },
+ "sa_9648764.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0063,
+   "outdoor": 0.7085,
+   "other": 0.2851
+  }
+ },
+ "sa_9653087.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0035,
+   "outdoor": 0.9859,
+   "other": 0.0106
+  }
+ },
+ "sa_9664139.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9669971.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0063,
+   "outdoor": 0.6397,
+   "other": 0.354
+  }
+ },
+ "sa_9679884.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7249,
+   "outdoor": 0.2316,
+   "other": 0.0435
+  }
+ },
+ "sa_9680824.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.3235,
+   "outdoor": 0.6238,
+   "other": 0.0527
+  }
+ },
+ "sa_9686578.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7803,
+   "outdoor": 0.129,
+   "other": 0.0907
+  }
+ },
+ "sa_9698504.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0466,
+   "outdoor": 0.9425,
+   "other": 0.0109
+  }
+ },
+ "sa_969966.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.508,
+   "outdoor": 0.1471,
+   "other": 0.3449
+  }
+ },
+ "sa_970135.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0954,
+   "outdoor": 0.8962,
+   "other": 0.0083
+  }
+ },
+ "sa_97209.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0076,
+   "other": 0.9923
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9732972.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0494,
+   "outdoor": 0.9367,
+   "other": 0.0139
+  }
+ },
+ "sa_9741273.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0243,
+   "outdoor": 0.9665,
+   "other": 0.0092
+  }
+ },
+ "sa_9742.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.02,
+   "outdoor": 0.0312,
+   "other": 0.9487
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_974411.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0049,
+   "outdoor": 0.9489,
+   "other": 0.0462
+  }
+ },
+ "sa_9767730.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0099,
+   "outdoor": 0.4984,
+   "other": 0.4917
+  }
+ },
+ "sa_9768925.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.026,
+   "outdoor": 0.5282,
+   "other": 0.4458
+  }
+ },
+ "sa_9791644.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0,
+   "other": 1.0
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9801711.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.014,
+   "outdoor": 0.8749,
+   "other": 0.111
+  }
+ },
+ "sa_9816577.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.336,
+   "outdoor": 0.3071,
+   "other": 0.3569
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9848598.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0124,
+   "outdoor": 0.4876,
+   "other": 0.5
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9848953.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1914,
+   "outdoor": 0.8026,
+   "other": 0.006
+  }
+ },
+ "sa_9887552.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0073,
+   "outdoor": 0.9613,
+   "other": 0.0314
+  }
+ },
+ "sa_989251.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.7257,
+   "outdoor": 0.2625,
+   "other": 0.0117
+  }
+ },
+ "sa_9908293.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1469,
+   "outdoor": 0.7088,
+   "other": 0.1443
+  }
+ },
+ "sa_9910832.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0,
+   "outdoor": 0.0001,
+   "other": 0.9999
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9923088.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1865,
+   "outdoor": 0.6794,
+   "other": 0.1341
+  }
+ },
+ "sa_9940009.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0025,
+   "outdoor": 0.1859,
+   "other": 0.8116
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9946558.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.0083,
+   "outdoor": 0.4603,
+   "other": 0.5314
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9951741.jpg": {
+  "label": "other",
+  "p": {
+   "indoor": 0.0001,
+   "outdoor": 0.0013,
+   "other": 0.9986
+  },
+  "reviewed": true,
+  "note": "non-photographic (stamp, rendering or drawing), visual review 2026-11-11"
+ },
+ "sa_9974555.jpg": {
+  "label": "outdoor",
+  "p": {
+   "indoor": 0.1337,
+   "outdoor": 0.1759,
+   "other": 0.6903
+  },
+  "reviewed": true,
+  "note": "photograph; CLIP other overridden after visual review 2026-11-11, label = larger of indoor/outdoor"
+ },
+ "sa_9978123.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.8709,
+   "outdoor": 0.1245,
+   "other": 0.0047
+  }
+ },
+ "sa_9979435.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9266,
+   "outdoor": 0.0648,
+   "other": 0.0086
+  }
+ },
+ "sa_998276.jpg": {
+  "label": "indoor",
+  "p": {
+   "indoor": 0.9709,
+   "outdoor": 0.0177,
+   "other": 0.0114
+  }
+ }
+}
