@@ -1,0 +1,18 @@
+=== 2026-11-14T01:10:14+02:00 /Users/diskin/Repos/VLM4RWD/vistaqa/predict.py --data data/vistaqa/VistaQA --run-dir results/vistaqa_premise-a-xhigh --variant a --until evaluate
+judge: 0 cached, 1157 to query
+judged 100/1157
+judged 200/1157
+judged 300/1157
+judged 400/1157
+judged 500/1157
+judged 600/1157
+judged 700/1157
+judged 800/1157
+judged 900/1157
+judged 1000/1157
+judged 1100/1157
+GT data/vistaqa/VistaQA: inputs 783219674d11, annotations ecf9d4ff2f66
+text accuracy 80.81
+mask score    75.60
+GROVE eps=0.1: 76.83
+GROVE eps=0.01: 73.68

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "epsilon": 0.1,
+    "judge_model": "qwen/qwen-2.5-72b-instruct",
+    "judge_base_url": "https://openrouter.ai/api/v1",
+    "judge_temperature": 0.0,
+    "total_samples": 1157,
+    "gt": "data/vistaqa/VistaQA",
+    "gt_fingerprints": {
+      "inputs": "783219674d11af8a51a676f28126db7eb2b453e21bc40b6428ceab5ff901c085",
+      "annotations": "ecf9d4ff2f66e4249c80ae73b7f4c97f50a3618a0252794ca73c5d85a222ec88"
+    },
+    "run_inputs_checked": true,
+    "git": {
+      "commit": "d10bd97f04cc8e65e0626d397903fb31ed8faa0f",
+      "modified": [
+        ".agents/skills/dev-run/SKILL.md",
+        "AGENTS.md",
+        "links"
+      ]
+    },
+    "official_code": {
+      "commit": "6ad724f03ca4c7f6862cae257f46e263726f41f6",
+      "modified": false
+    }
+  },
+  "overall": {
+    "standard_average": 0.7829017781071509
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.8173232833485651
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.813896919041122
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.8121089306228033
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.7774292688423089
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.761785717901312
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.7166086935087144
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.8110694841092317
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.7874468853955463
+      },
+      {
+        "group": "math",
+        "standard_average": 0.7749623638199288
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.810420147744885
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.6210882432022807
+      },
+      {
+        "group": "science",
+        "standard_average": 0.8884821460900927
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.759771690559714
+      },
+      {
+        "group": "true",
+        "standard_average": 0.8449994335290915
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.8449994335290915
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.7624781110390478
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.7532412184719288
+      }
+    ]
+  }
+}

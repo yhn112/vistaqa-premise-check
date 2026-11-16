@@ -1,0 +1,7 @@
+=== 2026-11-14T02:10:56+02:00 /Users/diskin/Repos/VLM4RWD/vistaqa/predict.py --data data/vistaqa/VistaQA --run-dir results/vistaqa_premise-e-xhigh --variant e --initial-run results/vistaqa_premise-a-xhigh --until evaluate
+judge: 1092 cached, 65 to query
+GT data/vistaqa/VistaQA: inputs 783219674d11, annotations ecf9d4ff2f66
+text accuracy 82.28
+mask score    77.08
+GROVE eps=0.1: 78.29
+GROVE eps=0.01: 75.31
